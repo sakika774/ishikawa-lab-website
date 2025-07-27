@@ -1,0 +1,300 @@
+/* --- 色の定義（CSS変数） --- */
+:root {
+    --neutral-100: #FEFEFE;
+    --neutral-200: #FAFAFA;
+    --neutral-900: #474747;
+}
+
+/* --- 基本設定 --- */
+
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: var(--neutral-900);
+    background-color: var(--neutral-200);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* --- ヘッダー --- */
+.header {
+    background-color: var(--neutral-100);
+    width: 100%;
+        position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 40px;
+}
+
+
+.header-logo a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+}
+
+.header-logo-jp {
+    font-size: 14px;
+}
+
+.header-logo-en {
+    font-size: 12px;
+}
+
+.header-nav ul {
+    margin: 0;
+    font-size: 14px;
+    display: flex;
+    gap: 32px;
+}
+
+/* --- フッター --- */
+.footer {
+    background-color: var(--neutral-100);
+    width: 100%;
+}
+
+.footer-inner {
+    padding: 40px 0px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-left {
+    width: 250px;
+}
+
+.footer-logo-jp {
+    font-size: 32px;
+    letter-spacing: 0.1em;
+}
+
+.footer-logo-en {
+    font-size: 16px;
+    display: block;
+    letter-spacing: 0.03em;
+    padding-top: 15px;
+    margin-top: 15px;
+    border-top: 1px solid var(--neutral-900);
+}
+
+.footer-right {
+    display: flex;
+    flex-flow: column;
+    gap: 24px;
+}
+
+.footer-title {
+    font-size: 16px;
+    padding-bottom: 16px;
+}
+
+.footer-nav ul {
+    font-size: 14px;
+    display: flex;
+    gap: 24px;
+    letter-spacing: 0.1em;
+}
+
+.footer-address {
+    line-height: 1.3;
+    font-size: 16px;
+}
+
+.footer-copyright {
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+.br-sp {
+    display: none;
+}
+
+/* --- SP版メニューボタン --- */
+
+.header-menu-button {
+    display: none;
+    /* PCでは非表示 */
+
+    background: none;
+    border: none;
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    z-index: 100;
+}
+
+.header-menu-button span {
+    display: block;
+    width: 21px;
+    height: 1px;
+    background-color: var(--neutral-900);
+}
+
+/* --- SP版ナビゲーション --- */
+.sp-nav {
+    position: fixed;
+    /* 画面に固定 */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--neutral-100);
+
+    /* 最初は非表示にしておく */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+
+    z-index: 99;
+}
+
+.sp-nav ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 24px;
+}
+
+.sp-nav a {
+    font-size: 24px;
+}
+
+/* メニューが開いた時のスタイル */
+.is-menu-open .sp-nav {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* メニューが開いた時に背景をスクロールさせない */
+.is-menu-open {
+    overflow: hidden;
+}
+
+
+/* --- メニューボタンの「×」印への変形 --- */
+.header-menu-button.is-active span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+
+.header-menu-button.is-active span:nth-child(2) {
+    opacity: 0;
+}
+
+.header-menu-button.is-active span:nth-child(3) {
+    transform: translateY(-3px) rotate(-45deg);
+}
+
+/* アニメーションを滑らかに */
+.header-menu-button span {
+    transition: transform 0.3s, opacity 0.3s;
+}
+
+/* --- レスポンシブ対応  --- */
+@media (max-width: 1069px) {
+
+    .header-inner {
+        padding-right: 5vw;
+        padding-left: 5vw;
+    }
+
+    /* PC用のナビゲーションを非表示に */
+    .header-nav {
+        display: none;
+    }
+
+    /* SP用のメニューボタンを表示 */
+    .header-menu-button {
+        display: flex;
+    }
+
+    .footer-content {
+        padding-top: 40px;
+        flex-direction: column;
+
+    }
+
+    .footer-left {
+        margin: auto;
+    }
+
+    .footer-right {
+        padding-top: 60px;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .footer-title {
+        text-align: center;
+    }
+
+    .footer-nav ul {
+        font-size: 18px;
+    }
+
+    .footer-copyright {
+        padding-top: 80px;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 700px) {
+    .footer-nav ul {
+        flex-direction: column;
+        font-size: 24px;
+    }
+
+    .footer-address {
+        line-height: 2;
+    }
+
+    .br-sp {
+        display: block;
+    }
+}
+
+@media (max-width: 390px) {
+    .header-logo-en {
+        display: none;
+    }
+
+    .footer-nav ul {
+        font-size: 20px;
+    }
+
+    .footer-address {
+        font-size: 14px;
+    }
+}
