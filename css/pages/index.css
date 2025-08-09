@@ -244,16 +244,91 @@
     width: 100%;
     height: 100%;
 }
+
+
+
+
+/* --- Publicationセクション --- */
+
+
+.publication {
+    padding: 100px 0px;
+}
+
+.publication-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-title-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding-bottom: 40px;
+}
+
+.section-title-container h2 {
+    font-size: 48px;
+    padding-bottom: 0;
+}
+
+.publication-card-list {
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    grid-template-columns: repeat(4, 240px);
+    overflow: hidden;
+    max-height: 240px;
+}
+
+
+/* --- Publicationカード --- */
+
+.publication-card {
+    height: 240px;
+    width: 240px;
+    background-color: var(--neutral-100);
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.publication-card-content p {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 11;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-break: break-all;
+}
+
+/* --- VIEW MORE リンク --- */
+.viewmore {
     display: flex;
     align-items: center;
     gap: 16px;
     font-size: 24px;
     align-self: flex-end;
     padding: 10px 0px;
+    transition: color 0.2s ease;
+}
+
+.viewmore:hover {
+    color: var(--neutral-1000);
+}
+
+.section-title-container .viewmore {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
 }
 
 
-/* --- viewmoreリンクのアイコン部分 --- */
+/* ---  VIEW MORE リンクのアイコン部分 --- */
 .viewmore-icon {
     display: flex;
     align-items: center;
@@ -317,6 +392,10 @@
     .br-sp-about-1070 {
         display: block;
     }
+
+    .publication-card-list {
+        grid-template-columns: repeat(3, 240px);
+    }
 }
 
 @media (max-width: 770px) {
@@ -339,6 +418,11 @@
         padding-left: 5vw;
         border-radius: 5vw;
     }
+
+    .publication-card-list {
+        grid-template-columns: repeat(2, 240px);
+    }
+
 }
 
 @media (max-width: 540px) {
@@ -355,6 +439,14 @@
     .youtube-video {
         border-radius: 0;
     }
+
+    .publication-card-list {
+        grid-template-columns: repeat(1, 240px);
+    }
+
+    .publication-card-list {
+        max-height: 500px;
+    }
 }
 
 
@@ -364,4 +456,10 @@
         height: auto;
     }
 
+    .section-title-container .viewmore {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 20px;
+    }
 }

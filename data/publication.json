@@ -1,14 +1,54 @@
 [
     {
-        "category": "国際会議(査読あり)",
+        "category": "国際学会発表",
         "authors": [
-            "石川 智治"
+            "Rikako Suzuki",
+            "Tomoharu Ishikawa"
         ],
-        "title": "触感に関する新しい研究発表",
-        "venue": "International Haptics Conference 2025",
-        "citation": "Fukuoka, Japan",
-        "sort_date": "2025-05-20",
+        "title": "Comparison of psychological changes...",
+        "venue": "International Society of Affective Science and Engineering (ISASE 2024)",
+        "citation": "Fukuoka, 2024.3",
+        "sort_date": "2024-03-01",
         "url": "",
-        "note": "発表予定"
+        "note": ""
+    },
+    {
+        "category": "特許",
+        "authors": [
+            "石川智治",
+            "三井実"
+        ],
+        "title": "触感呈示装置",
+        "venue": "",
+        "citation": "2022.11.30",
+        "sort_date": "2022-11-30",
+        "url": "https://link-to-patent-database.com/...",
+        "note": "特願2022-191245"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Rikako Suzuki",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Comparison of psychological changes...",
+        "venue": "International Society of Affective Science and Engineering (ISASE 2024)International Society of Affective Science and Engineering (ISASE 2024)International Society of Affective Science and Engineering (ISASE 2024)International Society of Affective Science and Engineering (ISASE 2024)",
+        "citation": "Fukuoka, 2024.3",
+        "sort_date": "2024-03-01",
+        "url": "",
+        "note": ""
+    },
+    {
+        "category": "特許",
+        "authors": [
+            "石川智治",
+            "三井実"
+        ],
+        "title": "触感呈示装置",
+        "venue": "",
+        "citation": "2022.11.30",
+        "sort_date": "2022-11-30",
+        "url": "https://link-to-patent-database.com/...",
+        "note": "特願2022-191245"
     }
 ]
