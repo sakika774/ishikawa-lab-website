@@ -2,7 +2,9 @@
 :root {
     --neutral-100: #FEFEFE;
     --neutral-200: #FAFAFA;
+    --neutral-700: #909090;
     --neutral-900: #474747;
+    --neutral-1000: #000000;
 }
 
 /* --- 基本設定 --- */
@@ -10,7 +12,7 @@
 body {
     font-family: 'M PLUS Rounded 1c', sans-serif;
     color: var(--neutral-900);
-    background-color: var(--neutral-200);
+    background-color: transparent;
 }
 
 a {
@@ -23,6 +25,7 @@ a {
 *::after {
     box-sizing: border-box;
 }
+
 
 /* --- ヘッダー --- */
 .header {
@@ -69,6 +72,7 @@ a {
 .footer {
     background-color: var(--neutral-100);
     width: 100%;
+
 }
 
 .footer-inner {
@@ -309,12 +313,16 @@ a {
     height: 100vh;
     overflow: hidden;
     background-color: var(--neutral-200);
+    /* ← ベースの背景色はこちらに指定 */
+    z-index: -1;
+    /* ← z-indexは-1のままでOK */
 }
 
 .content-wrapper {
     position: relative;
     z-index: 1;
 }
+
 
 /* 各円の共通スタイル */
 .gradient-circle {

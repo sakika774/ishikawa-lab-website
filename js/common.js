@@ -4,7 +4,7 @@
  * @param {string} targetId 挿入先の要素のID
  */
 function loadComponent(url, targetId) {
-    return fetch(url) // ← returnを追加
+    return fetch(url)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok ' + response.statusText);
@@ -32,7 +32,7 @@ function setupMenuButton() {
     if (menuButton) {
         menuButton.addEventListener('click', () => {
             body.classList.toggle('is-menu-open');
-            menuButton.classList.toggle('is-active'); // ← この行を追加
+            menuButton.classList.toggle('is-active');
         });
     }
 }
