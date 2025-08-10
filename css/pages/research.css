@@ -1,0 +1,58 @@
+/* --- ページ全体の装飾 --- */
+.research-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    min-height: 832px;
+}
+
+.research-list {
+    padding: 40px 60px;
+    background: var(--neutral-100);
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+.research-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.research-meta {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.research-category {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 12px;
+    border: solid var(--neutral-900) 0.5px;
+}
+
+.research-period {
+    font-size: 14px;
+    padding-top: 2px;
+}
+
+.research-title {
+    font-size: 28px;
+}
+
+.research-item p {
+    font-size: 20px;
+}
+
+
+/* --- レスポンシブ対応 --- */
+@media (max-width: 1069px) {
+    .research-list {
+        padding: 40px 5vw;
+    }
+}
