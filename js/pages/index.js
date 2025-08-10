@@ -103,4 +103,67 @@ document.addEventListener('DOMContentLoaded', function () {
                 container.insertAdjacentHTML('beforeend', cardHTML);
             });
         });
+
+
+
+
+    // --- Memberセクションのデータを読み込む ---
+    fetch('data/member.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(memberList => {
+            const container = document.getElementById('student-member-container');
+            if (!container) return; // コンテナがなければ中断
+
+            // 集計用オブジェクト
+            const counts = { DC: 0, M2: 0, M1: 0, B4: 0, others: 0 };
+
+            // 集計処理
+            memberList.forEach(member => {
+                if (counts.hasOwnProperty(member.grade)) {
+                    counts[member.grade]++;
+                } else {
+                    counts.others++;
+                }
+            });
+
+            // 人数カードをまとめてHTML化
+            const cardHTML = `
+            <div class="member-card">
+                <span class="member-role">博士後期課程</span>
+                <h4 class="member-name">${counts.DC}名</h4>
+            </div>
+            <div class="member-card">
+                <span class="member-role">修士課程２年生</span>
+                <h4 class="member-name">${counts.M2}名</h4>
+            </div>
+            <div class="member-card">
+                <span class="member-role">修士課程1年生</span>
+                <h4 class="member-name">${counts.M1}名</h4>
+            </div>
+            <div class="member-card">
+                <span class="member-role">学部4年生</span>
+                <h4 class="member-name">${counts.B4}名</h4>
+            </div>
+            <div class="member-card">
+                <span class="member-role">その他</span>
+                <h4 class="member-name">${counts.others}名</h4>
+            </div>
+        `;
+
+            container.insertAdjacentHTML('beforeend', cardHTML);
+        })
+        .catch(error => {
+            console.error('メンバー情報の読み込みに失敗しました:', error);
+            const container = document.getElementById('student-member-container');
+            if (container) {
+                container.innerHTML = '<p>メンバー情報を読み込めませんでした。</p>';
+            }
+        });
+
+
 });
