@@ -3,6 +3,17 @@
  * @param {string} url 読み込むHTMLファイルのURL
  * @param {string} targetId 挿入先の要素のID
  */
+
+async function fetchJson(url) {
+    const response = await fetch(url);
+    if (!response.ok) {
+        throw new Error(`Network response was not ok: ${response.status}`);
+    }
+    return response.json();
+}
+
+window.fetchJson = fetchJson;
+
 function loadComponent(url, targetId) {
     return fetch(url)
         .then(response => {
@@ -39,11 +50,8 @@ function setupMenuButton() {
 
 // ページの読み込みが完了したら、共通パーツを読み込む
 document.addEventListener("DOMContentLoaded", function () {
-    // ヘッダーの読み込みが完了した後に、メニューボタンの処理をセットアップする
     loadComponent('_header.html', 'header-placeholder').then(() => {
         setupMenuButton();
     });
-
-    // フッターは独立して読み込む
     loadComponent('_footer.html', 'footer-placeholder');
 });

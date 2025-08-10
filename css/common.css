@@ -20,6 +20,17 @@ a {
     text-decoration: none;
 }
 
+.page-inner {
+    padding: 120px 0px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.page-title {
+    font-size: 48px;
+}
+
+
 *,
 *::before,
 *::after {
@@ -228,6 +239,7 @@ a {
 /* --- レスポンシブ対応  --- */
 @media (max-width: 1069px) {
 
+    .page-inner,
     .header-inner {
         padding-right: 5vw;
         padding-left: 5vw;

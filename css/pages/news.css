@@ -1,0 +1,89 @@
+/* --- ニュースページ全体の装飾 --- */
+.news-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    min-height: 832px;
+}
+
+/* --- 年選択ボタンの装飾 --- */
+.year-buttons {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+
+}
+
+.year-buttons button {
+    font-size: 20px;
+    display: flex;
+    padding: 4px 16px 6px 16px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background: var(--neutral-100);
+    border: 1px solid var(--neutral-900);
+    cursor: pointer;
+}
+
+.year-buttons button.active {
+    background: var(--neutral-900);
+    color: var(--neutral-100);
+}
+
+
+/* --- ニュースリストの装飾 --- */
+.news-list {
+    padding: 40px 60px;
+    background: var(--neutral-100);
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+
+.news-meta,
+.publication-card-meta {
+    display: flex;
+    gap: 10px;
+}
+
+.news-category,
+.publication-card-category {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 12px;
+    border: solid var(--neutral-900) 0.5px;
+}
+
+.news-date,
+.publication-card-year {
+    font-size: 14px;
+    padding-top: 2px;
+}
+
+.news-content {
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+.news-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 8px 0px 0px 4px;
+    color: var(--neutral-700);
+    transition: color 0.2s ease;
+}
+
+.news-link:hover {
+    color: var(--neutral-900);
+}
+
+/* --- レスポンシブ対応 --- */
+@media (max-width: 1069px) {
+    .news-list {
+        padding: 40px 5vw;
+    }
+}

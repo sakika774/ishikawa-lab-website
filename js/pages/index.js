@@ -1,41 +1,24 @@
-// JSONをfetchしてエラーハンドリング込みで返す関数
-function fetchJson(url) {
-    return fetch(url)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`Network response was not ok: ${response.status}`);
-            }
-            return response.json();
-        });
-}
+document.addEventListener('DOMContentLoaded', async function () {
+    try {
+        const newsList = await fetchJson('data/news.json');
+        renderNews(newsList);
+    } catch (error) {
+        console.error('ニュースの読み込みに失敗しました:', error);
+    }
 
+    try {
+        const publicationList = await fetchJson('data/publication.json');
+        renderPublications(publicationList);
+    } catch (error) {
+        console.error('研究業績の読み込みに失敗しました:', error);
+    }
 
-document.addEventListener('DOMContentLoaded', function () {
-
-    fetchJson('data/news.json')
-        .then(newsList => {
-            renderNews(newsList);
-        })
-        .catch(error => {
-            console.error('ニュースの読み込みに失敗しました:', error);
-        });
-
-    fetchJson('data/publication.json')
-        .then(publicationList => {
-            renderPublications(publicationList);
-        })
-        .catch(error => {
-            console.error('研究業績の読み込みに失敗しました:', error);
-        });
-
-    fetchJson('data/member.json')
-        .then(memberList => {
-            renderMembers(memberList);
-        })
-        .catch(error => {
-            console.error('メンバー情報の読み込みに失敗しました:', error);
-        });
-
+    try {
+        const memberList = await fetchJson('data/member.json');
+        renderMembers(memberList);
+    } catch (error) {
+        console.error('メンバー情報の読み込みに失敗しました:', error);
+    }
 });
 
 
