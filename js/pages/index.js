@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // --- Newsセクションのデータを表示 ---
 function renderNews(newsList) {
-    const container = document.getElementById('news-container');
+    const container = document.getElementById('news-container-home');
     if (!container) return;
 
     //最新3件のデータのみを取得
@@ -84,7 +84,7 @@ function renderNews(newsList) {
 
 // --- Publicationセクションのデータを表示 ---
 function renderPublications(publicationList) {
-    const container = document.getElementById('publication-container');
+    const container = document.getElementById('publication-container-home');
     if (!container) return;
 
     //最新4件のデータのみを取得
@@ -119,7 +119,7 @@ function renderPublications(publicationList) {
 
 // --- memberセクションのデータを表示 ---
 function renderMembers(memberList) {
-    const container = document.getElementById('student-member-container');
+    const container = document.getElementById('student-member-container-home');
     if (!container) return;
 
     const counts = { DC: 0, M2: 0, M1: 0, B4: 0, others: 0 }; //人数カウント用の変数
