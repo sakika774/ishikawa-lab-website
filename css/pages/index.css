@@ -358,6 +358,32 @@
     font-size: 14px;
 }
 
+
+/* --- Recruitセクション --- */
+.recruit {
+    padding: 40px 0px;
+    background-color: var(--neutral-900);
+}
+
+.recruit-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    color: var(--neutral-100);
+}
+
+.recruit h2 {
+    font-size: clamp(24px, 4vw, 40px);
+    padding-bottom: 10px;
+}
+
+.br-sp-recruit-540 {
+    display: none;
+}
+
+
+
 /* --- VIEW MORE リンク --- */
 .viewmore {
     display: flex;
@@ -373,13 +399,20 @@
     color: var(--neutral-1000);
 }
 
+.recruit .viewmore {
+    align-self: center;
+}
+
+.recruit .viewmore:hover {
+    color: var(--neutral-200);
+}
+
 .section-title-container .viewmore {
     display: flex;
     align-items: center;
     gap: 16px;
     text-decoration: none;
 }
-
 
 /* ---  VIEW MORE リンクのアイコン部分 --- */
 .viewmore-icon {
@@ -406,6 +439,14 @@
     border-radius: 50%;
     margin-left: -12px;
     /* 線の半分まで円を重ねる */
+}
+
+.recruit .viewmore-icon-line {
+    background-color: var(--neutral-100);
+}
+
+.recruit .viewmore-icon-circle {
+    border: 1px solid var(--neutral-100);
 }
 
 
@@ -499,6 +540,10 @@
 
     .publication-card-list {
         max-height: 500px;
+    }
+
+    .br-sp-recruit-540 {
+        display: block;
     }
 }
 
