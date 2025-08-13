@@ -19,7 +19,11 @@
     justify-content: center;
 }
 
-.faculty-image img {}
+.faculty-image img {
+    width: 150px;
+    height: auto;
+    border-radius: 12px;
+}
 
 .faculty-role {
     font-size: 12px;
@@ -29,7 +33,22 @@
 }
 
 .faculty-name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.faculty-name-kanji {
     font-size: 24px;
+    padding: 0 8px 3px 8px;
+    margin: 0 8px 3px 8px;
+    border-bottom: solid var(--neutral-900) 0.5px;
+}
+
+.faculty-name-ruby {
+    font-size: 12px;
+    display: block;
 }
 
 .faculty-info {
