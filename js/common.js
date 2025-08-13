@@ -48,15 +48,25 @@ function setupMenuButton() {
     }
 }
 
-// ページの読み込みが完了したら、共通パーツを読み込む
-document.addEventListener("DOMContentLoaded", function () {
-    // 現在のURLの階層の深さを計算（ファイル名は除外）
+function updateAllLinks() {
     const depth = location.pathname.split("/").filter(Boolean).length - 1;
-    // 階層数に応じた相対パスを生成
     const basePath = depth > 0 ? "../".repeat(depth) : "./";
-    // ヘッダーとフッターを読み込み
+
+    document.querySelectorAll('[data-path]').forEach(a => {
+        a.href = basePath + a.dataset.path;
+    });
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+    const depth = location.pathname.split("/").filter(Boolean).length - 1;
+    const basePath = depth > 0 ? "../".repeat(depth) : "./";
+
     loadComponent(`${basePath}_header.html`, 'header-placeholder').then(() => {
         setupMenuButton();
+        updateAllLinks();
     });
-    loadComponent(`${basePath}_footer.html`, 'footer-placeholder');
+
+    loadComponent(`${basePath}_footer.html`, 'footer-placeholder').then(() => {
+        updateAllLinks();
+    });
 });
