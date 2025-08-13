@@ -50,8 +50,13 @@ function setupMenuButton() {
 
 // ページの読み込みが完了したら、共通パーツを読み込む
 document.addEventListener("DOMContentLoaded", function () {
-    loadComponent('_header.html', 'header-placeholder').then(() => {
+    // 現在のURLの階層の深さを計算（ファイル名は除外）
+    const depth = location.pathname.split("/").filter(Boolean).length - 1;
+    // 階層数に応じた相対パスを生成
+    const basePath = depth > 0 ? "../".repeat(depth) : "./";
+    // ヘッダーとフッターを読み込み
+    loadComponent(`${basePath}_header.html`, 'header-placeholder').then(() => {
         setupMenuButton();
     });
-    loadComponent('_footer.html', 'footer-placeholder');
+    loadComponent(`${basePath}_footer.html`, 'footer-placeholder');
 });
