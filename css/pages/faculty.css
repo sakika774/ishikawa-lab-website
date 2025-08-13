@@ -1,0 +1,73 @@
+/* --- ページ全体の装飾 --- */
+.faculty-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    min-height: 832px;
+}
+
+.faculty {
+    display: flex;
+    align-items: start;
+}
+
+.faculty-image {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.faculty-image img {}
+
+.faculty-role {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 12px;
+    border: solid var(--neutral-900) 0.5px;
+}
+
+.faculty-name {
+    font-size: 24px;
+}
+
+.faculty-info {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+    padding-left: 40px;
+    margin-left: 40px;
+    border-left: solid var(--neutral-900) 0.5px;
+}
+
+.faculty-info h3 {
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.faculty-info p {}
+
+
+
+/* --- レスポンシブ対応 --- */
+@media (max-width: 770px) {
+    .faculty {
+        flex-direction: column;
+    }
+
+    .faculty-image {
+        margin: 0 auto;
+    }
+
+    .faculty-info {
+        padding-top: 30px;
+        margin-top: 30px;
+        border-top: solid var(--neutral-900) 0.5px;
+        padding-left: 0;
+        margin-left: 0;
+        border-left: none;
+    }
+}
+
+@media (max-width: 540px) {}
