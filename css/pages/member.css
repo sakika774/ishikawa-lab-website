@@ -1,0 +1,112 @@
+/* --- ページ全体の装飾 --- */
+.member-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    min-height: 832px;
+}
+
+.faculty,
+.member {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding-bottom: 40px;
+}
+
+.faculty-card {
+    padding: 40px 60px;
+    background: var(--neutral-100);
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.faculty-card-meta {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+    gap: 16px;
+}
+
+
+.faculty-role,
+.member-grade {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 12px;
+    border: solid var(--neutral-900) 0.5px;
+}
+
+.faculty-name {
+    font-size: 30px;
+    margin: auto;
+}
+
+.member {
+    padding: 40px 0;
+    background: var(--neutral-100);
+    border-radius: 40px;
+    gap: 32px
+}
+
+
+.member-card {
+    padding: 0 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.member-card-meta {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+    gap: 16px;
+}
+
+.member-name {
+    font-size: 24px;
+}
+
+.member-theme {
+    padding-left: 1vw;
+    font-size: 28px;
+}
+
+/* --- レスポンシブ対応 --- */
+@media (max-width: 770px) {
+    .faculty-card {
+        padding: 5vw 8vw;
+        border-radius: 5vw;
+    }
+
+    .viewmore-text {
+        font-size: 3vw;
+    }
+
+    .member-card {
+        padding: 0 8vw;
+        border-radius: 5vw;
+    }
+}
+
+@media (max-width: 540px) {
+    .viewmore-text {
+        display: none;
+    }
+
+    .member-theme {
+        font-size: 5vw;
+    }
+}
+
+@media (max-width: 390px) {
+    .faculty-name {
+        font-size: 7.7vw;
+    }
+
+    .member-name {
+        font-size: 6.15vw;
+    }
+}

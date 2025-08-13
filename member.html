@@ -12,20 +12,62 @@
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="css/common.css">
-
+    <link rel="stylesheet" href="css/pages/member.css">
 </head>
 
 <body>
+    <div class="gradient-bg">
+        <div class="gradient-circle circle1"></div>
+        <div class="gradient-circle circle2"></div>
+        <div class="gradient-circle circle3"></div>
+    </div>
 
-    <header id="header-placeholder" class="header"></header>
+    <div class="content-wrapper">
 
-    <main style="height: 1000px;">
+        <header id="header-placeholder" class="header"></header>
 
-    </main>
+        <main>
+            <div class="page-inner member-page">
+                <h1 class="page-title">Member</h1>
+                <h2 class="page-title-sub">教員</h2>
+                <div class="faculty">
+                    <a href="member/ishikawa.html" class="faculty-card">
+                        <div class="faculty-card-meta">
+                            <span class="faculty-role">教授</span>
+                            <span class="faculty-name">石川 智治</span>
+                        </div>
+                        <div class="viewmore">
+                            <span class="viewmore-text">VIEW MORE</span>
+                            <div class="viewmore-icon">
+                                <span class="viewmore-icon-line"></span>
+                                <span class="viewmore-icon-circle"></span>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="member/heyuanyuan.html" class="faculty-card">
+                        <div class="faculty-card-meta">
+                            <span class="faculty-role">助教</span>
+                            <span class="faculty-name">何 元元</span>
+                        </div>
+                        <div class="viewmore">
+                            <span class="viewmore-text">VIEW MORE</span>
+                            <div class="viewmore-icon">
+                                <span class="viewmore-icon-line"></span>
+                                <span class="viewmore-icon-circle"></span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <h2 class="page-title-sub">学生</h2>
+                <div id="member-container-page" class="member">
+                </div>
+        </main>
 
-    <footer id="footer-placeholder" class="footer"></footer>
+        <footer id="footer-placeholder" class="footer"></footer>
+    </div>
 
     <script src="js/common.js"></script>
+    <script src="js/pages/member.js"></script>
 
 </body>
 
