@@ -250,7 +250,6 @@ a {
     height: 44px;
     cursor: pointer;
     padding: 0;
-    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
