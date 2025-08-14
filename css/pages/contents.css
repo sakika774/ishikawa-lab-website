@@ -1,0 +1,51 @@
+/* --- 研究業績ページ全体の装飾 --- */
+.contents-page {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    min-height: 832px;
+}
+
+.content {
+    padding: 40px 80px;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-black {
+    background-color: var(--neutral-900);
+    color: var(--neutral-100);
+    border-color: var(--neutral-100);
+}
+
+.content-black .viewmore-icon-line {
+    background-color: var(--neutral-100);
+}
+
+.content-black .viewmore-icon-circle {
+    border: 1px solid var(--neutral-100);
+}
+
+.content-white {
+    background-color: var(--neutral-100);
+    color: var(--neutral-900);
+}
+
+.content h3 {
+    font-size: clamp(24px, 3.5vw, 36px);
+}
+
+/* --- レスポンシブ対応 --- */
+
+@media (max-width: 770px) {
+    .content {
+        padding: 8.3vw 10vw;
+    }
+}
+
+@media (max-width: 540px) {
+    .viewmore-text {
+        display: none;
+    }
+}
