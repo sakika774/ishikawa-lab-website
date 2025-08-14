@@ -1,0 +1,112 @@
+/* --- ページ全体の装飾 --- */
+.recruit-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    min-height: 832px;
+}
+
+.recruit-info {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--neutral-900);
+    border-radius: 40px;
+    padding: 64px 80px;
+    gap: 26px;
+}
+
+.recruit-info p {
+    font-size: clamp(16px, 3vw, 24px);
+    line-height: 1.5em;
+    color: var(--neutral-100);
+}
+
+.viewmore span {
+    color: var(--neutral-100);
+}
+
+.viewmore-icon-line {
+    background-color: var(--neutral-100);
+}
+
+.viewmore-icon-circle {
+    border: 1px solid var(--neutral-100);
+}
+
+.recruit-student,
+.recruit-worker,
+.recruit-international {
+    display: flex;
+    background-color: var(--neutral-100);
+    border-radius: 40px;
+    padding: 64px 80px;
+    gap: 40px;
+}
+
+.recruit-page img {
+    width: 200px;
+    height: 200px;
+}
+
+.detail {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+}
+
+.detail h3 {
+    font-size: clamp(24px, 3.5vw, 36px);
+}
+
+.detail p {
+    font-size: clamp(16px, 2.8vw, 20px);
+    line-height: 1.5em;
+}
+
+.br-sp-recruit-540 {
+    display: none;
+}
+
+/* --- レスポンシブ対応 --- */
+
+@media (max-width: 770px) {
+    .page-title {
+        font-size: 38px
+    }
+
+    .recruit-info {
+        border-radius: 5vw;
+        padding: 8.3vw 10vw;
+    }
+
+    .recruit-student,
+    .recruit-worker,
+    .recruit-international {
+        flex-direction: column;
+        border-radius: 5vw;
+        padding: 8.3vw 10vw;
+    }
+
+    .recruit-student {
+        align-items: center;
+    }
+
+    .recruit-worker {
+        align-items: end;
+    }
+
+    .recruit-international {
+        align-items: start;
+    }
+
+    .recruit-page img {
+        width: clamp(100px, 25vw, 200px);
+        height: clamp(100px, 25vw, 200px);
+    }
+}
+
+@media (max-width: 540px) {
+    .br-sp-recruit-540 {
+        display: block;
+    }
+}
