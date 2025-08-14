@@ -1,0 +1,56 @@
+/* --- ページ全体の装飾 --- */
+.oyaishi-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    min-height: 832px;
+}
+
+.content-area {
+    display: flex;
+    gap: 40px;
+}
+
+.content-area img {
+    width: clamp(250px, 33vw, 400px);
+    height: clamp(250px, 33vw, 400px);
+    flex-shrink: 0;
+}
+
+.content-area-text {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.content-area-text h3 {
+    font-size: 32px;
+}
+
+.content-area-text p {
+    font-size: 20px;
+    line-height: 1.5em;
+    padding: 20px 0;
+}
+
+.content-area .viewmore {
+    align-self: flex-end;
+}
+
+
+/* --- レスポンシブ対応 --- */
+@media (max-width: 1069px) {
+    .page-title {
+        font-size: clamp(32px, 5vw, 48px);
+    }
+}
+
+@media (max-width: 770px) {
+    .content-area {
+        flex-direction: column;
+    }
+
+    .content-area img {
+        margin: 0 auto;
+    }
+}
