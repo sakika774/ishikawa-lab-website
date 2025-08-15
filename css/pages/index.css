@@ -38,19 +38,22 @@
 .scroll-down {
     position: absolute;
     bottom: 80px;
-    left: 50%;
-    transform: translateX(-50%);
+    margin: auto;
+    transform: translateX(-10px);
 }
 
 /* 矢印のアニメーション部分 */
+
 .scroll-down::before {
     content: "";
     position: absolute;
+    top: 50%;
+    margin: auto;
     width: 20px;
     height: 20px;
     border-bottom: 2px solid var(--neutral-900);
     border-left: 2px solid var(--neutral-900);
-    transform: rotate(-45deg);
+    transform: translate(-50%, -50%) rotate(-45deg);
     animation: scroll-animation 2.5s infinite;
 }
 
@@ -391,7 +394,8 @@
 
     .top-inner,
     .about-inner,
-    .youtube-inner {
+    .youtube-inner,
+    .member-inner {
         padding-right: 5vw;
         padding-left: 5vw;
     }
