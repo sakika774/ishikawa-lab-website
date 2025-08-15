@@ -69,4 +69,19 @@ document.addEventListener("DOMContentLoaded", function () {
     loadComponent(`${basePath}_footer.html`, 'footer-placeholder').then(() => {
         updateAllLinks();
     });
+
+    // fade-up 要素の監視
+    const fadeUpElements = document.querySelectorAll('.fade-up');
+    const observer = new IntersectionObserver((entries, obs) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('show');
+                obs.unobserve(entry.target);
+            }
+        });
+    }, {
+        threshold: 0.2
+    });
+
+    fadeUpElements.forEach(el => observer.observe(el));
 });

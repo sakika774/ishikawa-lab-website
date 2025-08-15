@@ -535,3 +535,17 @@ a {
         transform: rotate(360deg);
     }
 }
+
+/* 要素をふんわり表示させるアニメーション */
+/* 初期状態：透明で下にずらす */
+.fade-up {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 2s ease, transform 2s ease;
+}
+
+/* 表示状態 */
+.fade-up.show {
+    opacity: 1;
+    transform: translateY(0);
+}
