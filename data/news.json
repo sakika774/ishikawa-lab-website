@@ -81,7 +81,7 @@
         "date": "2024.10",
         "category": "受賞",
         "content": "今年の9月に開催された第26回日本感性工学会大会 (JSKE)にて情報電子オプティクスコース小野大輝さんが優秀発表賞を受賞しました。",
-        "link": "R6_10_15_ono.html"
+        "link": "contents/award/R6_10_15_ono.html"
     },
     {
         "date": "2024.10",
@@ -111,7 +111,7 @@
         "date": "2024.08",
         "category": "お知らせ",
         "content": "当研究室では、『宇都宮大学工学部石川研究室 石材サンプル・カタログ2023-24』を刊行しました。",
-        "link": "StoneMaterialCatalog_2023-24.pdf"
+        "link": "/contents/oyaishi/oyaishi.html"
     },
     {
         "date": "2024.03",
@@ -171,7 +171,7 @@
         "date": "2023.09",
         "category": "受賞",
         "content": "今年の2月に開催された映像情報メディア学会 メディア工学研究会にて情報電気電子システム工学プログラム(基盤工学科出身)中村大生さんが研究奨励賞を受賞しました。",
-        "link": "R5_2_4_nakamura.html"
+        "link": "contents/award/R5_2_4_nakamura.html"
     },
     {
         "date": "2023.09",
@@ -225,7 +225,7 @@
         "date": "2023.02",
         "category": "受賞",
         "content": "映像情報メディア学会 メディア工学研究会にて、基盤工学科 情報電子オプティクスコース 中村大生さんが「CG映像を用いた布地の”やわらかさ・かたさ”表現に関する基礎的検討 〜 布の物理モデルのパラメータと布地質感評価との関係 〜」を発表し、研究奨励賞を受賞しました。",
-        "link": "R5_2_4_nakamura.html"
+        "link": "contents/award/R5_2_4_nakamura.html"
     },
     {
         "date": "2022.12",
@@ -261,7 +261,7 @@
         "date": "2022.06",
         "category": "受賞",
         "content": "茂木修一さん（ 令和4年3月システム創成工学専攻修了生）、櫻井将人さん（本学OB）、石川智治先生、阿山みよし先生がColor Research and Application Vol.46.No.4で発表した論文「Color appearance of small stimuli presented in central and near peripheral visual fields」は、第15回日本色彩学会論文賞を受賞しました。",
-        "link": "R4_6_26_mogi.html"
+        "link": "contents/award/R4_6_26_mogi.html"
     },
     {
         "date": "2022.06",
@@ -309,7 +309,7 @@
         "date": "2021.09",
         "category": "受賞",
         "content": "第23回日本感性工学会大会(JSKE)にて情報電気電子システム工学プログラム(情報工学科出身)熊井俊介さんが「多様な布地による透過光画像の薄さ・厚さ評価特性の検討」を発表し、優秀発表賞を受賞しました。",
-        "link": "R3_9_10_kumai.html"
+        "link": "contents/award/R3_9_10_kumai.html"
     },
     {
         "date": "2021.09",
@@ -345,25 +345,25 @@
         "date": "2021.02",
         "category": "受賞",
         "content": "情報電気電子システム工学プログラム(情報工学科出身)庄野翔さんが映像情報メディア学会メディア工学研究会 学生研究発表会にて「野菜パッケージのデザイン要素と感性評価の関係」を発表し、研究奨励賞を受賞しました。",
-        "link": "R3_2_27_shouno.html"
+        "link": "contents/award/R3_2_27_shouno.html"
     },
     {
         "date": "2021.02",
         "category": "受賞",
         "content": "情報電気電子システム工学プログラム(情報工学科出身)寺島聖明さんが映像情報メディア学会メディア工学研究会 学生研究発表会にて「布地の“やわらかさ・かたさ”評価に影響を及ぼす提示映像内の情報分析」を発表し、研究奨励賞を受賞しました。",
-        "link": "R3_2_27_terashima.html"
+        "link": "contents/award/R3_2_27_terashima.html"
     },
     {
         "date": "2020.09",
         "category": "受賞",
         "content": "情報電気電子システム工学プログラム(情報工学科出身)中島拓海さんが第22回日本感性工学会大会(JSKE)にて「手や布地の温度が布地の温かさ・涼しさ評価に及ぼす影響の検討 −布地知識の異なる被験者群間の相違−」を発表し、優秀発表賞を受賞しました。",
-        "link": "R2_9_9_nakajima.html"
+        "link": "contents/award/R2_9_9_nakajima.html"
     },
     {
         "date": "2020.09",
         "category": "受賞",
         "content": "情報電気電子システム工学プログラム(情報工学科出身)寺島聖明さんが第22回日本感性工学会大会(JSKE)にて「布地回転映像における“やわらかさ・かたさ”判断要素の検討 -布地呈示領域と面積の影響-」を発表し、優秀発表賞を受賞しました。",
-        "link": "R2_9_14_terashima.html"
+        "link": "contents/award/R2_9_14_terashima.html"
     },
     {
         "date": "2020.03",
@@ -375,55 +375,55 @@
         "date": "2020.02",
         "category": "受賞",
         "content": "情報電気電子システム工学プログラム(情報工学科出身)菊地翔太さんが映像情報メディア学会メディア工学研究会にて「布地接触における皮膚温度変移と温冷感評価の関係」を発表し、研究奨励賞を受賞しました。",
-        "link": "R2_2_8_kikuchi.html"
+        "link": "contents/award/R2_2_8_kikuchi.html"
     },
     {
         "date": "2020.02",
         "category": "受賞",
         "content": "令和2年3月修了生 平祐樹さんが映像情報メディア学会メディア工学研究会にて「布地表面の伸縮変化の様相と伸縮性評価の関係」を発表し、優秀発表賞を受賞しました。",
-        "link": "R2_2_8_taira.html"
+        "link": "contents/award/R2_2_8_taira.html"
     },
     {
         "date": "2020.02",
         "category": "受賞",
         "content": "情報電気電子システム工学プログラム(情報工学科出身)河上和樹さんが映像情報メディア学会メディア工学研究会にて「片頭痛患者の聴覚閾値及び聴性脳幹反応の測定」を発表し、研究奨励賞を受賞しました。",
-        "link": "R2_2_8_kawakami.html"
+        "link": "contents/award/R2_2_8_kawakami.html"
     },
     {
         "date": "2019.02",
         "category": "受賞",
         "content": "平成31年3月修了生 安部洋介さんが映像情報メディア学会メディア工学研究会にて「布地ドレープの画像・映像評価時の視線推移に関する研究」を発表し、研究奨励賞を受賞しました。",
-        "link": "H31_2_9_abe.html"
+        "link": "contents/award/H31_2_9_abe.html"
     },
     {
         "date": "2018.02",
         "category": "受賞",
         "content": "石川研究室 神場尚仁さんが映像情報メディア学会メディア工学研究会にて「回転布地映像による”やわらかさ・かたさ”評価マッチング と物理的なパラメータの関係」を発表し、研究奨励賞を受賞しました。",
-        "link": "H30_2_24_jinba.html"
+        "link": "contents/award/H30_2_24_jinba.html"
     },
     {
         "date": "2017.03",
         "category": "受賞",
         "content": "情報システム科学専攻2年 三浦健人さんが2017日本感性工学会にて「感性支援を志向した空気流発生装置の心理・生理的効果」を発表し、優秀発表賞を受賞しました。",
-        "link": "H29_3_29_miura.html"
+        "link": "contents/award/H29_3_29_miura.html"
     },
     {
         "date": "2017.02",
         "category": "受賞",
         "content": "情報工学科4年生 佐藤有紗さんが映像情報メディア学会 メディア工学研究委員会にて「布地の粗さ・なめらかさ評価に適応した画像および振動による呈示方法の検討」を発表し、研究奨励賞を受賞しました。",
-        "link": "H29_2_18_satou.html"
+        "link": "contents/award/H29_2_18_satou.html"
     },
     {
         "date": "2017.03",
         "category": "参加報告",
         "content": "阿山先生 谷田貝先生、大谷先生と浙江大学との交流を強化するために光電科学工程学院を訪問し、見学や講演、学生たちとの議論を行ってきました。",
-        "link": "http://opt.zju.edu.cn/redir.php?catalog_id=41&object_id=156494"
+        "link": ""
     },
     {
         "date": "2016.11",
         "category": "受賞",
         "content": "情報工学科4年 野口修平さんが2017日本感性工学会にて「勇気づけのためのメッセージングの検討」を発表し、優秀発表賞を受賞しました。",
-        "link": "H28_11_13_noguchi.html"
+        "link": "contents/award/H28_11_13_noguchi.html"
     },
     {
         "date": "2016.09",
@@ -465,7 +465,7 @@
         "date": "2015.09",
         "category": "受賞",
         "content": "阿山先生、石川先生が一般社団法人日本色彩学会にて「Preference for Color-Enhanced Images Assessed by Color Deficiencies」を発表し、日本色彩学会論文賞を受賞しました。",
-        "link": "H27_9_27_ayama_ishikawa.html"
+        "link": "contents/award/H27_9_27_ayama_ishikawa.html"
     },
     {
         "date": "2015.09",
@@ -489,13 +489,13 @@
         "date": "2015.08",
         "category": "受賞",
         "content": "福井にて開催された日本感性工学学会に参加し発表しました。また、ポスター発表において松沼さんが最優秀ポスター賞を受賞しました。",
-        "link": "H27_8_28_matsunuma.html"
+        "link": "contents/award/H27_8_28_matsunuma.html"
     },
     {
         "date": "2015.05",
         "category": "参加報告",
         "content": "東京にて開催されたAIC2015に参加し発表しました。",
-        "link": "images/jushou/AIC2015_1.JPG"
+        "link": ""
     },
     {
         "date": "2015.03",
@@ -531,7 +531,7 @@
         "date": "2014.09",
         "category": "受賞",
         "content": "埼玉にて開催された第47回照明学会全国大会に参加し発表しました。発表者：菅原さん、船山さんまた、船山さんが全国大会優秀ポスター発表者賞を受賞しました。",
-        "link": "H26_9_5_hunayama.html"
+        "link": "contents/award/H26_9_5_hunayama.html"
     },
     {
         "date": "2014.07",
@@ -549,7 +549,7 @@
         "date": "2013.09",
         "category": "受賞",
         "content": "東京にて開催された第１５回感性工学会大会に参加し発表しました。発表者：石川先生、辻さん、後藤さん、小松崎さん、中森さんまた、小松崎さんが優秀発表賞を受賞しました。",
-        "link": "H26_9_4_komatsuzaki.html"
+        "link": "contents/award/H26_9_4_komatsuzaki.html"
     },
     {
         "date": "2013.05",
@@ -585,7 +585,7 @@
         "date": "2012.05",
         "category": "受賞",
         "content": "阿山先生が、修了生の木村能子さんと共に日本色彩学会から第５回に本色彩学会論文賞を受賞しました。",
-        "link": "H24_5_17_kimura_ayama.html"
+        "link": "contents/award/H24_5_17_kimura_ayama.html"
     },
     {
         "date": "2012.05",
@@ -651,7 +651,7 @@
         "date": "2010.12",
         "category": "受賞",
         "content": "鈴木俊郁さんが映像情報メディア学会から2010年度映像情報メディア学会学生優秀発表賞を受賞しました。",
-        "link": "H22_12_14_suzuki.html"
+        "link": "contents/award/H22_12_14_suzuki.html"
     },
     {
         "date": "2010.12",
@@ -687,12 +687,12 @@
         "date": "2010.03",
         "category": "受賞",
         "content": "阿山・石川研究室の矢口さんが自動車技術会から大学院研究奨励賞を受賞しました。",
-        "link": "H22_3_1_yaguchi.html"
+        "link": "contents/award/H22_3_1_yaguchi.html"
     },
     {
         "date": "2009.08",
         "category": "受賞",
         "content": "2009年度照明学会に出席し、田代さんが優秀ポスター発表者賞を 受賞しました。",
-        "link": "H21_8_27_tashiro.html"
+        "link": "contents/award/H21_8_27_tashiro.html"
     }
 ]
