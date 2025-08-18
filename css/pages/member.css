@@ -123,7 +123,7 @@
 }
 
 .event-card {
-    flex-direction:row-reverse;
+    flex-direction: row-reverse;
 }
 
 .obog h3,
@@ -204,7 +204,7 @@
     /* 子要素を横並びに */
     white-space: nowrap;
     /* 折り返し防止 */
-    animation: obog-scroll 100s linear infinite;
+    animation: obog-scroll 200s linear infinite;
 }
 
 @keyframes obog-scroll {
@@ -222,7 +222,7 @@
     /* 子要素を横並びに */
     white-space: nowrap;
     /* 折り返し防止 */
-    animation: event-scroll 70s linear infinite;
+    animation: event-scroll 200s linear infinite;
 }
 
 
