@@ -71,7 +71,7 @@
 
 .member-theme {
     padding-left: 1vw;
-    font-size: 28px;
+    font-size: clamp(14px, 4vw, 20px);
 }
 
 /* --- レスポンシブ対応 --- */
@@ -94,10 +94,6 @@
 @media (max-width: 540px) {
     .viewmore-text {
         display: none;
-    }
-
-    .member-theme {
-        font-size: 5vw;
     }
 }
 
