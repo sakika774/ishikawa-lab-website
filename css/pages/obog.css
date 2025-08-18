@@ -1,0 +1,38 @@
+.obog {
+    display: flex;
+    flex-direction: column;
+    gap: 72px;
+    padding-top: 40px;
+}
+
+.obog-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.obog-card h3 {
+    font-size: 28px;
+    padding: 8px;
+    text-align: center;
+    border-radius: 40px;
+    background-color: var(--neutral-900);
+    color: var(--neutral-100);
+}
+
+.obog-card img {
+    width: 100%;
+    height: auto;
+    padding: 0 50px;
+}
+
+
+@media (max-width: 540px) {
+    .page-title {
+        font-size: 40px;
+    }
+
+    .obog-card img {
+        padding: 0;
+    }
+}

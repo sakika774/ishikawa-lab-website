@@ -1,0 +1,48 @@
+.event {
+    display: flex;
+    flex-direction: column;
+    gap: 72px;
+    padding-top: 40px;
+}
+
+.event-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.event-card h3 {
+    font-size: 28px;
+    padding: 8px;
+    text-align: center;
+    border-radius: 40px;
+    background-color: var(--neutral-900);
+    color: var(--neutral-100);
+}
+
+.event-card-images {
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.event-card-images img {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 540px) {
+    .page-title {
+        font-size: 38px;
+    }
+
+    .event-card-images {
+        padding: 0;
+    }
+
+    .event-card h3 {
+        font-size: 20px;
+    }
+
+}

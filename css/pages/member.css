@@ -6,6 +6,18 @@
     min-height: 832px;
 }
 
+.member-img {
+    padding: 0 5vw 30px 5vw;
+}
+
+.member-img img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 5vw;
+}
+
 .faculty,
 .member {
     display: flex;
@@ -74,6 +86,70 @@
     font-size: clamp(14px, 4vw, 20px);
 }
 
+.obog {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    scrollbar-width: none;
+}
+
+.event {
+    display: flex;
+    flex-direction: row-reverse;
+    overflow-x: auto;
+    gap: 20px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    scrollbar-width: none;
+}
+
+.obog::-webkit-scrollbar {
+    display: none;
+}
+
+.event::-webkit-scrollbar {
+    display: none;
+}
+
+.obog-card,
+.event-card {
+    flex: 0 0 auto;
+    display: flex;
+    scroll-snap-align: start;
+    overflow: hidden;
+    text-align: center;
+}
+
+.event-card {
+    flex-direction:row-reverse;
+}
+
+.obog h3,
+.event h3 {
+    font-size: 20px;
+    font-weight: 700;
+    writing-mode: vertical-rl;
+    rotate: 180deg;
+    text-align: right;
+}
+
+
+.obog-card img {
+    height: 24vw;
+    width: auto;
+    display: block;
+}
+
+.event-card img {
+    height: 15vw;
+    width: auto;
+    display: block;
+}
+
+
+
 /* --- レスポンシブ対応 --- */
 @media (max-width: 770px) {
     .faculty-card {
@@ -95,14 +171,67 @@
     .viewmore-text {
         display: none;
     }
+
+    .obog-card img {
+        height: 50vw;
+    }
 }
 
 @media (max-width: 390px) {
+    .member-img {
+        padding: 0 0 30px 0;
+    }
+
     .faculty-name {
         font-size: 7.7vw;
     }
 
     .member-name {
         font-size: 6.15vw;
+    }
+}
+
+
+/* --- 自動横スクロール用 --- */
+.obog-wrapper,
+.event-wrapper {
+    overflow: hidden;
+    width: 100%;
+}
+
+.obog {
+    display: inline-flex;
+    /* 子要素を横並びに */
+    white-space: nowrap;
+    /* 折り返し防止 */
+    animation: obog-scroll 100s linear infinite;
+}
+
+@keyframes obog-scroll {
+    from {
+        transform: translateX(0%);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+.event {
+    display: inline-flex;
+    /* 子要素を横並びに */
+    white-space: nowrap;
+    /* 折り返し防止 */
+    animation: event-scroll 70s linear infinite;
+}
+
+
+@keyframes event-scroll {
+    from {
+        transform: translateX(-100%);
+    }
+
+    to {
+        transform: translateX(0%);
     }
 }
