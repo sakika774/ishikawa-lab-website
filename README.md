@@ -13,6 +13,7 @@
 - 新しいニュースや受賞情報を追加する場合は、dataフォルダ内のJSONを更新する
 
 ## ディレクトリ構成
+```
 📁 ishikawa-lab-website
 ┣ index.html …サイトTOPページ  
 ┣ news.html …ニュース情報ページ  
@@ -37,3 +38,4 @@
 ┣ 📁 css …スタイルシート  
 ┣ 📁 js …スクリプト  
 ┗ 📁 data …JSONデータ（news, research, publication, member）
+```
