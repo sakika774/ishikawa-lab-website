@@ -1,41 +1,188 @@
 [
     {
+        "category": "論文",
+        "authors": [
+            "Hiro HIYAMA",
+            "Tomoharu ISHIKAWA",
+            "Kakeru SHONO",
+            "Miyoshi AYAMA"
+        ],
+        "title": "Consumers’ Visual Kansei Evaluation and Factors in Transparent Tomato Packages: Focusing on Product Name Design and Pattern Design",
+        "venue": "International Journal of Affective Engineering",
+        "date": "2025-06-26",
+        "place": "",
+        "url": "https://doi.org/10.5057/ijae.IJAE-D-24-00037",
+        "doi": "10.5057/ijae.IJAE-D-24-00037",
+        "note": "Article ID IJAE-D-24-00037"
+    },
+    {
+        "category": "論文",
+        "authors": [
+            "Rikuto UWANO",
+            "Tomoharu ISHIKAWA",
+            "Takashi MAEHARA",
+            "Noriyuki WAKATSUKI",
+            "Yoshiko YANAGIDA",
+            "Miyoshi AYAMA"
+        ],
+        "title": "Relationship between Perceived Stretchability of Various Fabrics and Mechanical Properties",
+        "venue": "International Journal of Affective Engineering",
+        "date": "2025-05-29",
+        "place": "",
+        "url": "https://doi.org/10.5057/ijae.IJAE-D-24-00038",
+        "doi": "10.5057/ijae.IJAE-D-24-00038",
+        "note": "論文ID IJAE-D-24-00038"
+    },
+    {
+        "category": "論文",
+        "authors": [
+            "Takashi MAEHARA",
+            "Tomoharu ISHIKAWA",
+            "Yoshiko YANAGIDA"
+        ],
+        "title": "Roughness and smoothness evaluation of fabrics using images in the online shopping scenario",
+        "venue": "International Journal of Clothing Science and Technology",
+        "date": "2025-01",
+        "place": "",
+        "url": "https://doi.org/10.1108/IJCST-04-2024-0085",
+        "doi": "10.1108/IJCST-04-2024-0085",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "He Yuanyuan",
+            "Sato Hiromi",
+            "Mizokami Yoko"
+        ],
+        "title": "Cross-cultural comparison of the influence of skin-color change on facial impressions",
+        "venue": "I-Perception, 15(5)",
+        "date": "2024-10",
+        "place": "",
+        "url": "https://doi.org/10.1177/20416695241288032",
+        "doi": "10.1177/20416695241288032",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Kozue Miyashiro",
+            "Kazuya Sasaki",
+            "Tomoharu Ishikawa",
+            "Hiroshi Mori"
+        ],
+        "title": "A Study about Perceptions of Kimono among College Students and Kimono Enthusiasts: Is It Difficult to Move in a Kimono?",
+        "venue": "Japan Institutional Gateway",
+        "date": "2024-06",
+        "place": "",
+        "url": "https://doi.org/10.12688/f1000research.149040.1",
+        "doi": "10.12688/f1000research.149040.1",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa",
+            "Kota Kanari",
+            "Shoko Hira",
+            "Sakuichi Ohtsuka",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color representations of normals and congenital red–green color deficiencies based on differential scaling of color-names and color-naming experiments",
+        "venue": "Color Research & Application",
+        "date": "2024-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
         "category": "国際学会発表",
         "authors": [
-            "Rikako Suzuki",
-            "Tomoharu Ishikawa"
+            "Rikuo Suzuki",
+            "Tomoharu Ishikawa",
+            "Muneto Tatsumoto",
+            "Katsuhiro Maki",
+            "Ken Ishibashi",
+            "Yuichi Ishimoto"
         ],
-        "title": "Comparison of psychological changes...",
+        "title": "Comparison of psychological changes from listening to pleasant sounds in patients with migraine and control patients",
         "venue": "International Society of Affective Science and Engineering (ISASE 2024)",
-        "citation": "Fukuoka, 2024.3",
-        "sort_date": "2024-03-01",
+        "date": "2024-03",
+        "place": "Fukuoka",
         "url": "",
+        "doi": "",
         "note": ""
-    },
-    {
-        "category": "特許",
-        "authors": [
-            "石川智治",
-            "三井実"
-        ],
-        "title": "触感呈示装置",
-        "venue": "",
-        "citation": "2022.11.30",
-        "sort_date": "2022-11-30",
-        "url": "https://link-to-patent-database.com/...",
-        "note": "特願2022-191245"
     },
     {
         "category": "国際学会発表",
         "authors": [
-            "Rikako Suzuki",
-            "Tomoharu Ishikawa"
+            "Hiro Hiyama",
+            "Kakeru Shono",
+            "Tomoharu IshIKAWA",
+            "Miyoshi Ayama"
         ],
-        "title": "Comparison of psychological changes...",
-        "venue": "International Society of Affective Science and Engineering (ISASE 2024)International Society of Affective Science and Engineering (ISASE 2024)International Society of Affective Science and Engineering (ISASE 2024)International Society of Affective Science and Engineering (ISASE 2024)",
-        "citation": "Fukuoka, 2024.3",
-        "sort_date": "2024-03-01",
+        "title": "Impact of Regular Pattern Design on Kansei Evaluation in Tomato Packaging",
+        "venue": "International Society of Affective Science and Engineering (ISASE 2024)",
+        "date": "2024-03",
+        "place": "Fukuoka",
         "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Rikuto Uwano",
+            "Tomoharu Ishikawa",
+            "Takashi Maehara",
+            "Noriyuki Wakatsuki",
+            "Yoshiko Yanagida",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of Numerical Evaluation of the Elasticity Sensation for Various Fabrics",
+        "venue": "International Society of Affective Science and Engineering (ISASE 2024)",
+        "date": "2024-03",
+        "place": "Fukuoka",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Shuichi Mogi",
+            "Masafumi Kamei",
+            "Masato Sakurai",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Relationship between color appearance evaluation and categorical color responses of small stimuli in central and near peripheral visual fields",
+        "venue": "48(6) 772 – 792",
+        "date": "2023.09",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Junki Tsunetou",
+            "Yoshiko Yanagida",
+            "Mutsumi Yanaka",
+            "Minoru Mitsui",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Differences in fabric hand perceptions among Japanese and Chinese individuals",
+        "venue": "International Journal of Clothing Science and Technology",
+        "date": "2023.03",
+        "place": "",
+        "url": "",
+        "doi": "IJCST-04-2022-0050",
         "note": ""
     },
     {
@@ -46,9 +193,3198 @@
         ],
         "title": "触感呈示装置",
         "venue": "",
-        "citation": "2022.11.30",
-        "sort_date": "2022-11-30",
-        "url": "https://link-to-patent-database.com/...",
+        "date": "2023.03.03",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "特願2023-32811"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "玉根昭一",
+            "高橋直哉",
+            "石川智治",
+            "佐藤美恵",
+            "溝上陽子",
+            "阿山みよし"
+        ],
+        "title": "質的に異なる照明下での布地の明度知覚",
+        "venue": "照明学会誌，第107巻",
+        "date": "2022.05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Color Naming of Red-Green Color Deficiencies",
+        "venue": "RMUTT International Conference (RMUTCON 2022)",
+        "date": "2022.05",
+        "place": "Online",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Fabric Texture Expression and Recognition in Online Shopping",
+        "venue": "NICOGRAPH International 2022",
+        "date": "2022.06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "Invited lecture"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Tomoharu Ishikawa",
+            "Tetsuma Sugimoto",
+            "Shiho Murakami",
+            "Shino Okuda"
+        ],
+        "title": "Measurement of the Contrast Impact of Patterned Blouse and Single-Color Skirt Combination, S2-1",
+        "venue": "7th Asia Color Association Conference (ACA 2022 Taipei)",
+        "date": "2022.10.20",
+        "place": "Online",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "特許",
+        "authors": [
+            "石川智治",
+            "三井実"
+        ],
+        "title": "触感呈示装置",
+        "venue": "",
+        "date": "2022.11.30",
+        "place": "",
+        "url": "",
+        "doi": "",
         "note": "特願2022-191245"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Shuichi Mogi",
+            "Masato Sakurai",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color Appearance of Small Stimuli Presented in Central and Near Peripheral Visual Fields",
+        "venue": "Color Research & Application, Vol.46, Issue 4, pp.722-739",
+        "date": "2021-01",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "山田哲司",
+            "江湖俊介",
+            "田代知範",
+            "石川智治",
+            "阿山みよし"
+        ],
+        "title": "高輝度発光面が動的刺激への応答時間に与える影響",
+        "venue": "照明学会誌, Vol.106, No.1, pp.21-28",
+        "date": "2021-09",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa",
+            "Shoko Hira",
+            "Sakuichi Ohtsuka",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color Representations of Normals and Congenital Red-green Color Deficiencies: Estimation of Individual Results based on Color Vision Model",
+        "venue": "Color Research & Application, Vol.47, Issue 3, pp.565-584",
+        "date": "2021-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa",
+            "Shoko Hira",
+            "Sakuichi Ohtsuka"
+        ],
+        "title": "Difference Scaling and Color Naming of Red-Green Color Deficiencies",
+        "venue": "14th Congress AIC2021",
+        "date": "2021-09",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Takumi Nakajima",
+            "Yoshiko Yanagida",
+            "Minoru Mitsui",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of sensation modalities on texture evaluation of beige fabrics by Japanese and Chinese",
+        "venue": "14th Congress AIC2021",
+        "date": "2021-09",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国内発表",
+        "authors": [
+            "石川智治"
+        ],
+        "title": "片頭痛患者の音に対する心理生理反応～診断や治療を見据えて～",
+        "venue": "過敏性の科学",
+        "date": "2021-02",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国内発表",
+        "authors": [
+            "石川智治"
+        ],
+        "title": "感性の計測 -体感からひも解く評価および提示技術の紹介-(1)",
+        "venue": "センサイト",
+        "date": "2021-11",
+        "place": "",
+        "url": "http://sensait.jp/18805/",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国内発表",
+        "authors": [
+            "石川智治"
+        ],
+        "title": "感性の計測 -体感からひも解く評価および提示技術の紹介-(2)",
+        "venue": "センサイト",
+        "date": "2021-11",
+        "place": "",
+        "url": "http://sensait.jp/18824/",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Katuhiro Maki",
+            "Tomoharu Ishikawa",
+            "Kazuki Kawakami"
+        ],
+        "title": "Signal processing method for data with simultaneous recording of auditory brainstem response, middle latency response, and slow vertex response",
+        "venue": "Acoustical Science and Technology, Vo.41, No.2, pp.517-520",
+        "date": "2020-03",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Shoichi Tamane",
+            "Tomoharu Ishikawa",
+            "Mie Sato",
+            "Yoko Mizokami",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of Directional and Diffused Lights on the KANSEI Evaluation of a Glossy Object and the Scene",
+        "venue": "Journal of Science and Technology in Lighting, Vol.43, pp.18-31",
+        "date": "2020-03",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Yuuki Taira",
+            "Hiroshi Mori",
+            "Yoshiko Yanagida",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of visual information related to stretch fabric evaluation using videos",
+        "venue": "Proceedings of the 8th International Conference on Kansei Engineering and Emotion Research (KEER2020), pp.24-30",
+        "date": "2020-08",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Minoru Ohkoba",
+            "Kahori Tanaka",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Immanent Dichromaticity in Trichromatic Observer: Color image evaluation of congenital red-green color deficient and normal color vision observers",
+        "venue": "LIM2020, ID30",
+        "date": "2020-09",
+        "place": "London",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shoko Hira",
+            "Rei Endo",
+            "Kanta Mochihara",
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "Sakuichi Ohtsuka"
+        ],
+        "title": "Immanent Dichromaticity in Trichromatic Observer: 2nd Coordinate in MDS Analyses of R-G Neutral- and Y-B Only Changed-Stimuli Reflects Chromatic Saliency",
+        "venue": "SID2020, 80-3",
+        "date": "2020-09",
+        "place": "San Francisco",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa",
+            "Shoko Hira",
+            "Sakuichi Ohtsuka",
+            "Miyoshi Ayama"
+        ],
+        "title": "Analysis of Hue Circle Perception of Congenital Red-Green Congenital Color Deficiencies based on Color Vision Model",
+        "venue": "CIC28, pp.105-108",
+        "date": "2020-11",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Muneto Tatsumoto",
+            "Katuhiro Maki",
+            "Minoru Mitsui",
+            "Hiroshi Hasegawa",
+            "Koichi Hirata"
+        ],
+        "title": "Identification of Everyday Sounds Perceived as Noise by Migraine Patients",
+        "venue": "Internal Medicine, Vol.58, No.11, pp.1565-1572",
+        "date": "2019-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Naohito Jinba",
+            "Tomoharu Ishikawa",
+            "Yoshiko Yanagida",
+            "Hiroshi Mori",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Visual ratings of “softness/hardness” of rotating fabrics",
+        "venue": "International Journal of Clothing Science and Technology, Vol.32, No.1, pp.48-62",
+        "date": "2019-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Takumu Okada",
+            "Shogo Okamoto",
+            "Yoji Yamada",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Vector Auto-Regression Model of Temporal Perceptual and Affective Responses Towards Food",
+        "venue": "The 2019 IEEE 1st Global Conference on Life Sciences and Technologies (LifeTech 2019)",
+        "date": "2019-03",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yuki Tachikawa",
+            "Nao Tsuchiya",
+            "Tomoharu Ishikawa",
+            "Kazuhiko Ohnuma",
+            "Miyoshi Ayama"
+        ],
+        "title": "Measurements of Intraocular Straylight, Visual Sensitivity, and Discomfort Glare for Young and Elderly Observers",
+        "venue": "CIE2019",
+        "date": "2019-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Masatoshi Kamei",
+            "Tetsuji Yamada",
+            "Shunsuke Koko",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of Direct Glare of Led Floodlight on Catching a Moving Object",
+        "venue": "CIE2019",
+        "date": "2019-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoya Fujiwara",
+            "Saki Nakada",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Threshold Metric Chroma of Images for Chromatic Perception",
+        "venue": "CIE2019",
+        "date": "2019-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Kohei Kawame",
+            "Shota Shiromizu",
+            "Kosuke Arimoto",
+            "Motoharu Kimura",
+            "Hideo Hata",
+            "Masaya Koshino",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Representative Color of the Whole-face Image and its Relation to finish-up Impression",
+        "venue": "CIE2019",
+        "date": "2019-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shogo Kageyama",
+            "Yusuke Inuzuka",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "KANSEI Evaluation of the Red Object Images using Different Red Primaries",
+        "venue": "CIE2019",
+        "date": "2019-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shoko Hira",
+            "Asuka Sako",
+            "Ryusuke Uto",
+            "Kota Kanari",
+            "Minoru Ohkoba",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Immanent Dichromatic in Trichromatic Observer: Based on MDS Analyses of R-G Neutral- and Y-B Only Changed-Stimuli Observation Results",
+        "venue": "IDW2019",
+        "date": "2019-11",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Minoru Ohkoba",
+            "Kota Kanari",
+            "Hiroto Mikami",
+            "Tomoharu Ishikawa",
+            "Shoko Hira",
+            "Sakuichi Ohtsuka"
+        ],
+        "title": "Color representations of Red-green Color Deficient and Normal Observers using Color Cards and Color Names",
+        "venue": "ACA2019",
+        "date": "2019-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoya Fujiwara",
+            "Takumi Matsumoto",
+            "Hinako Kunugi",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of Metric Chroma on the Total Color Impression of Images",
+        "venue": "ACA2019",
+        "date": "2019-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Minoru Ohkoba",
+            "Kota Kanari",
+            "Hiroto Mikami",
+            "Tomoharu Ishikawa",
+            "Shoko Hira",
+            "Sakuichi Ohtsuka"
+        ],
+        "title": "Hue Circle Perception of Congenital Red-green Color vision Deficiencies – Experimental Data and Extimation using Colorimetric Values -",
+        "venue": "ACA2019",
+        "date": "2019-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shuichi Mogi",
+            "Masafumi Kamei",
+            "Masato Sakurai",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color Appearance Model of Small Field Stimuli in the Fovea and Periphery",
+        "venue": "ACA2019",
+        "date": "2019-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Kohei Takaishi",
+            "Kahoko Imazu",
+            "Junko Fujimoto",
+            "Tomoharu Ishikawa",
+            "Shino Okuda",
+            "Miyoshi Ayama"
+        ],
+        "title": "Relation between Contrast Impact of Two-piece Garmets and Kansei Evaluation",
+        "venue": "ACA2019",
+        "date": "2019-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Takumi Nakajima",
+            "Tomoharu Ishikawa",
+            "Junki Tsunetou",
+            "Yoshiko Yanagida",
+            "Mutsumi Yanaka",
+            "Minoru Mitsui",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Influence of Subject Attribute Differences on Texture Evaluation of Beige Fabrics - Comparison between Subjects' Knowledge of Clothes and Differences in Their Background -",
+        "venue": "ACA2019",
+        "date": "2019-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Genki Kato",
+            "Kosuke Oiwa",
+            "Tatsuya Iwaki",
+            "Tomoharu Ishikawa",
+            "Akio Nozawa"
+        ],
+        "title": "Emotional Arousal by Feedback for Selfies: A Pilot Study",
+        "venue": "IEEJ Transactions on Electronics, Information and Systems, Vol.138, No.7, pp.805-811",
+        "date": "2018-07",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Kento Miura",
+            "Tomoharu Ishikawa",
+            "Takaho Itoigawa",
+            "Minoru Mitsui",
+            "Akio Nozawa"
+        ],
+        "title": "Psychological and Physiological Responses to Airflow Stimuli: Differences in Responses based on Sex and Targeted Body Site",
+        "venue": "International Journal of Industrial Ergonomics, Vol.68, pp.176-185",
+        "date": "2018-07",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "恒遠純輝",
+            "石川智治",
+            "矢中睦美",
+            "柳田佳子",
+            "佐々木和也",
+            "阿山みよし"
+        ],
+        "title": "多様な布地属性に対する質感評価－被験者の知識と感覚モダリティの相違の影響－",
+        "venue": "繊維機械学会誌, Vol.64, No.5, pp.117-126",
+        "date": "2018-10",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Yusuke Inuzuka",
+            "Shogo Kageyama",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Kansei Evaluation of Color Images in Various Color Gamuts using Different Red Primaries",
+        "venue": "CIE 2018",
+        "date": "2018-04",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kento Miura",
+            "Takaho Itoigawa",
+            "Minoru Mitsui",
+            "Akio Nozawa"
+        ],
+        "title": "Influence of Different Characteristics of Air Flow on a Person’s Sense Evaluation",
+        "venue": "ISASE-MAICS 2018",
+        "date": "2018-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shoichi Tamane",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Kansei Evaluation of Blacklacquer Ware under Various Combinations of Diffuse and Directional Lights",
+        "venue": "11th Asia Lighting Conference",
+        "date": "2018-09",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoya Fujiwara",
+            "Saki Nakada",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Chromatic Threshold for Total Color-Image Impression",
+        "venue": "ACA2018",
+        "date": "2018-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shogo Kageyama",
+            "Yusuke Inuzuka",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "KANSEI Evaluation of Color Images Presented in Color Gamuts with Different Red Primaries",
+        "venue": "ACA2018",
+        "date": "2018-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yusuke Inuzuka",
+            "Shogo Kageyama",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "KANSEI Evaluation of Color Images in Different Color Gamuts",
+        "venue": "IDW 2018",
+        "date": "2018-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Shota Shiromizu",
+            "Kohei Kawame",
+            "Kosuke Arimoto",
+            "Motoharu Kimura",
+            "Hideo Hata",
+            "Masaya Koshino",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "KANSEI Evaluation of Skin Color of Young Japanese Women on a Display and the Relation to Colorimetric Values of Whole face",
+        "venue": "IDW 2018",
+        "date": "2018-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Natsuki Kagaya",
+            "Hiroshi Mori",
+            "Tomoharu Ishikawa",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama",
+            "Kenji Shoji",
+            "Fubito Toyama"
+        ],
+        "title": "Simulating kimono fabrication based on the production process of Yuki-tsumugi",
+        "venue": "ACM SIGGRAPH ASIA 2018",
+        "date": "2018-12",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "佐々木和也",
+            "石川智治",
+            "森博志",
+            "阿山みよし",
+            "吉葉光雄",
+            "金子優"
+        ],
+        "title": "心理評価と物理計測による結城紬の風合い特徴の分析",
+        "venue": "日本感性工学会論文誌, Vol.16, No.2, pp.237-144",
+        "date": "2017-04",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Haruka Takahashi",
+            "Shizuka Bando",
+            "Kosuke Oiwa",
+            "Akio Nozawa",
+            "Tomoharu Ishikawa",
+            "Minoru Mitsui"
+        ],
+        "title": "Measurement of psychophysical quantities of air-flow stimulus",
+        "venue": "Transactions on Electrical and Electronic Engineering, Vol.12, No.s1, pp.5183-5184",
+        "date": "2017-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "高橋陽香",
+            "板東靜",
+            "大岩孝輔",
+            "野澤昭雄",
+            "石川智治",
+            "三井実"
+        ],
+        "title": "空気流刺激の認知特性評価",
+        "venue": "電気学会論文誌C, Vol.137, No.7, pp.898-903",
+        "date": "2017-07",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "田代知範",
+            "川野辺祥子",
+            "木村能子",
+            "江湖俊介",
+            "石川智治",
+            "阿山みよし"
+        ],
+        "title": "自動車用赤色LED灯体の不快グレア評価予測",
+        "venue": "照明学会論文誌, Vol.101, No.6, pp.223-228",
+        "date": "2017-09",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yusuke Inuzuka",
+            "Akihisa Kumakura",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of Optimal Green Primary Color in Ultra Wide Color Gamut Display",
+        "venue": "The 24th Congress of the International Commission for Optics (ICO-24)",
+        "date": "2017-08",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Nao Tsuchiya",
+            "Tomonori Tashiro",
+            "Tomoharu Ishikawa",
+            "Kazuhiko Ohnuma",
+            "Miyoshi Ayama"
+        ],
+        "title": "Psychophysical Measurement of Intraocular Straylight",
+        "venue": "The 24th Congress of the International Commission for Optics (ICO-24)",
+        "date": "2017-08",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Kota Kanari",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Perceived Saturation Difference of Congenital Red-Green Color Vision Deficiencies",
+        "venue": "Association Internationale de la Couleur 2017",
+        "date": "2017-10",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Tomoharu Ishikawa",
+            "Michiru Tagaya"
+        ],
+        "title": "Contrast Impact of Two-Piece Garments",
+        "venue": "Association Internationale de la Couleur 2017",
+        "date": "2017-10",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Junki Tsunetou",
+            "Mutsumi Yanaka",
+            "Yoshiko Yanagida",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Influence of Knowledge about Clothes and Sensation Modalities on Texture Evaluation of Beige Textile",
+        "venue": "Association Internationale de la Couleur 2017",
+        "date": "2017-10",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yusuke Inuzuka",
+            "Akihisa Kumakura",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Study on Optimal Green Primary from KANSEI Evaluation Point of View",
+        "venue": "Association Internationale de la Couleur 2017",
+        "date": "2017-10",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Toshifumi Suzuki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Border Detection in Various Levels of Surround Luminance",
+        "venue": "Journal of the Society for Information Display, Vol.24, Issue 1, pp.57–65",
+        "date": "2016-01",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Miyoshi Ayama",
+            "Takashi Fuseda",
+            "Toshiya Hamano",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "KANSEI Evaluation of Color Images Presented in Color Gamuts with Different Blue Primaries",
+        "venue": "Journal of the Society for Information Display, first published online",
+        "date": "2016-02",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Nozomi Nishi",
+            "Erina Kobayashi",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Optimal gathering ratios of fabric for texture expression in online shopping – Comparison between Observer groups: clothing and engineering –",
+        "venue": "Proceedings of International Symposium on Affective Science and Engineering (ISASE 2016), Tokyo",
+        "date": "2016-03",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Toshiya Hamano",
+            "Akihisa Kumakura",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "The Winter Green and Summer Blue -Optimal Primaries from KANSEI Evaluation Point of View-",
+        "venue": "SID2016",
+        "date": "2016-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Akihisa Kumakura",
+            "Toshiya Hamano",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color Classification of Images using Categorical Color Database",
+        "venue": "SID2016",
+        "date": "2016-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Yuta Yoshino",
+            "Yoshiko Yanagida",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Dynamic control method of fabric drapes for adapting to the soft-crisp evaluation of various fabrics in online shopping",
+        "venue": "Kansei Engineering and Emotion Research Conference (KEER 2016)",
+        "date": "2016-08",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Hiroshi Mori",
+            "Kazuya Sasaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color effect of dyeing on texture perception of Yuki-tsumugi",
+        "venue": "The 3rd conference of Asia Color Association (ACA)",
+        "date": "2016-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Tomoya Komatsuzaki",
+            "Minoru Mitsui",
+            "Muneto Tatsumoto",
+            "Hiroshi Hasegawa",
+            "Koichi Hirata"
+        ],
+        "title": "Exploration of Comfortable Sound Space for Migraine Patients - Investigation of Phonophobia to Household Noises -",
+        "venue": "International Journal of Affective Engineering, Vol.14, No.1, pp.1-8",
+        "date": "2015-01",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Miyoshi Ayama",
+            "Ryosuke Yamazaki",
+            "Shinichi Nakanoya",
+            "Tomonori Tashiro",
+            "Tomoharu Ishikawa",
+            "Kazuhiko Ohnuma",
+            "Hiroyuki Shinoda",
+            "Keisuke Araki"
+        ],
+        "title": "Estimation of Stray Light in the Eye and Its Relation to Visual Function",
+        "venue": "Optical Review",
+        "date": "2015-03",
+        "place": "",
+        "url": "",
+        "doi": "10.1007_s10043-015-0061-1",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Shunsuke Nakamori",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Identification of Common Words for the Evaluation of Clothes' Appearance and Tactile Sensation in Online Shopping - An indicator for producing images that express clothes' textures -",
+        "venue": "International Journal of Affective Engineering",
+        "date": "2015-03",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Shunsuke Nakamori",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Identification of Common Words for the Evaluation of Clothes' Appearance and Tactile Sensation in Online Shopping - An indicator for producing images that express clothes' textures -",
+        "venue": "International Journal of Affective Engineering: Special Issue on KEER 2014, Vol.14, No.3, pp.143-149",
+        "date": "2015-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Ryota Tsuji",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of fabric texture expression through dynamic alteration of drapes - Image presentation method in online shopping environments -",
+        "venue": "International Journal of Affective Engineering: Special Issue ISASE2015",
+        "date": "2015-12",
+        "place": "",
+        "url": "",
+        "doi": "10.5057/ijae.IJAE-D-15-00026",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Ryota Tsuji",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of dynamic alterations of drapes on fabric texture evaluation – Investigation of the image presentation method in an online shopping setting –",
+        "venue": "International Symposium on Affective Science and Engineering 2015 (ISASE 2015)",
+        "date": "2015-03",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Toshiya Hamano",
+            "Takashi Fuseda",
+            "Tomonori Tashiro",
+            "Tomoharu Ishikawa",
+            "Hiroyuki Shinoda",
+            "Kazuhiko Ohnuma",
+            "Keisuke Araki",
+            "Miyoshi Ayama"
+        ],
+        "title": "KANSEI evaluation of color images presented in different blue primary displays",
+        "venue": "Association Internationale de la Couleur 2015",
+        "date": "2015-05",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Yuya Akagawa",
+            "Kazuma Shinoda",
+            "Shigeru Inui",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Evaluation of Cloth Roughness and Smoothness by Visual and Tactile Perceptions: Investigation of Cloth Photography Method for Online Shopping",
+        "venue": "Association Internationale de la Couleur 2015",
+        "date": "2015-05",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Takashi Fuseda",
+            "Toshiya Hamano",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Evaluation of Color Images Presented in Color Gamuts of Different Blue Primaries",
+        "venue": "International Symposium Display Week 2015",
+        "date": "2015-06",
+        "place": "San Jose",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Shoto Taira",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "A method for developing images of clothes based on visual and tactile evaluations of “thickness” and “thinness”",
+        "venue": "6th International Conference on Applied Human Factors and Ergonomics and the Affiliated Conferences 2015",
+        "date": "2015-07",
+        "place": "Las Vegas",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Taku Goto",
+            "Tomoharu Ishikawa",
+            "Kazunori Asada",
+            "Miyoshi Ayama"
+        ],
+        "title": "Benchmark to select a preferable color enhancement for an individual observer",
+        "venue": "The 23rd Symposium of the International Colour Vision Society 2015",
+        "date": "2015-07",
+        "place": "Sendai",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Online Shopping and Individual Consumer Adaptation: The Relationship Between Fabric-Identification Ability and Prior Knowledge",
+        "venue": "Industrial Application of Affective Engineering, Springer International Publishing Switzerland",
+        "date": "2014",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Kazuo Kuroda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "Shigeo Kubota"
+        ],
+        "title": "Color Speckle",
+        "venue": "Optical Review, Vol.21, pp.83-89",
+        "date": "2014-01",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomonori Tashiro",
+            "Takako Kimura-Minoda",
+            "Shunsuke Kohko",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Discomfort glare of white LED lights with different spatial arrangement",
+        "venue": "Lighting Research & Technology",
+        "date": "2014",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Tomoya Komatsuzaki",
+            "Minoru Mitsui",
+            "Muneto Tatsumoto",
+            "Hiroshi Hasegawa",
+            "Koichi Hirata"
+        ],
+        "title": "Exploration of Comfortable Sound Space for Migraine Patients - Investigation of Phonophobia to Household Noises -",
+        "venue": "International Journal of Affective Engineering",
+        "date": "2014",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Shunsuke Nakamori",
+            "Kazuya Sasaki",
+            "Keiko Miyatake",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of Appearance and Tactile Sensation Scales for Evaluating Clothes in Online Shopping",
+        "venue": "International Conference on Kansei Engineering and Emotion Research (KEER 2014), Linkoping University",
+        "date": "2014-06",
+        "place": "Linkoping University",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Yi-Chun Chen",
+            "Yunge Guan",
+            "Tomoharu Ishikawa",
+            "Hiroaki Eto",
+            "Takehiro Nakatsue",
+            "Jinhui Chao",
+            "Miyoshi Ayama"
+        ],
+        "title": "Preference for Color Enhanced Images Assessed by Color Deficiencies",
+        "venue": "Color Research & Application",
+        "date": "2013-02",
+        "place": "",
+        "url": "",
+        "doi": "10.1002/col.21795",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of Key Visual Factors for Cloth Texture Recognition -Effect of Fabric Drape Complexity and Window Size-",
+        "venue": "International Journal of Affective Engineering: Special Issue on KEER 2012, Vol.12, No.2, pp.239-244",
+        "date": "2013-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Ryouta Tsuji",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Relationships between an Individual’s Fabric Identification Ability and Amounts of Experience and Knowledge",
+        "venue": "International Symposium on Affective Engineering 2013 (ISAE2013)",
+        "date": "2013-03",
+        "place": "Kitakyusyu",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Kazuo Kuroda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "S. Kubota"
+        ],
+        "title": "Color Speckle",
+        "venue": "The 2nd Laser Display Conference (LDC’13), LDC-8-4",
+        "date": "2013-04",
+        "place": "Yokohama",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Tomonori Tashiro",
+            "Shoko Kawanobe",
+            "Takako Kimura-Minoda",
+            "Shunsuke Kohko",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "DISCOMFORT GLARE OF WHITE LED SOURCES OF DIFFERENT SPATIAL ARRANGEMENTS",
+        "venue": "CIE2013",
+        "date": "2013-04",
+        "place": "Paris",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Hiroyuki Kaji",
+            "Kentaro Oba",
+            "Kazushige Nagai",
+            "Ken-ichi Iwauchi",
+            "Seiichi Tanaka",
+            "Sakae Saito",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Relation between Recognition of Illumination and Depth Perception",
+        "venue": "Society for Information Display’s Display Week 2013 (SID2013)",
+        "date": "2013-05",
+        "place": "Vancouver",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Muneto Tatsumoto",
+            "Tetsuya Eda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "Koichi Hirata"
+        ],
+        "title": "Light of intrinsically photosensitive retinal ganglion cell (ipRGC) causing migraine headache exacerbation",
+        "venue": "2013 International Headache Congress (IHC2013)",
+        "date": "2013-06",
+        "place": "Boston",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Ryouta Tsuji",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Analysis of Cloth Texture Recognition by Comparison between Engineering and Clothing Observers - Influence of Fabric Drape Complexity and Window Size -",
+        "venue": "12th International AIC Congress (AIC2013)",
+        "date": "2013-07",
+        "place": "Newcastle Upon Tyne",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Ryouta Tsuji",
+            "Kou Sato",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Basic Study on Recognition Mechanism for Cloth Textures in Online Shopping - Involvement of Visual and Tactile Perception -",
+        "venue": "5th International Congress of the International Association of Societies of Design Research 2013 (IASDR 2013)",
+        "date": "2013-08",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yuki Sakaue",
+            "Yoshitake Takahashi",
+            "Tomoharu Ishikawa",
+            "Sakurako Matsushima",
+            "Miyoshi Ayama"
+        ],
+        "title": "Blackness Judgement of Lacquer Ware by Expert and Naive Groups",
+        "venue": "The 1st ASIA Color Association Conference (ACA 2013)",
+        "date": "2013-11",
+        "place": "Thanyaburi",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Chisato Orihara",
+            "Yi-Chum Chen",
+            "Yuki Kuhara",
+            "Kazunori Asada",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Comparison of perceived saturation difference between color anomalous and normal observers",
+        "venue": "The 1st ASIA Color Association Conference (ACA 2013)",
+        "date": "2013-11",
+        "place": "Thanyaburi",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Yi-Chun Chen",
+            "Yunge Guan",
+            "Tomoharu Ishikawa",
+            "Hiroaki Eto",
+            "Takehiro Nakatsue",
+            "Jinhui Chao",
+            "Miyoshi Ayama"
+        ],
+        "title": "Preference for Color Enhanced Images Assessed by Color Deficiencies",
+        "venue": "Color Research & Application",
+        "date": "2013-02",
+        "place": "",
+        "url": "",
+        "doi": "10.1002/col.21795",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of Key Visual Factors for Cloth Texture Recognition -Effect of Fabric Drape Complexity and Window Size-",
+        "venue": "International Journal of Affective Engineering: Special Issue on KEER 2012, Vol.12, No.2, pp.239-244",
+        "date": "2013-06",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Ryouta Tsuji",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Relationships between an Individual’s Fabric Identification Ability and Amounts of Experience and Knowledge",
+        "venue": "International Symposium on Affective Engineering 2013 (ISAE2013)",
+        "date": "2013-03",
+        "place": "Kitakyusyu",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Kazuo Kuroda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "S. Kubota"
+        ],
+        "title": "Color Speckle",
+        "venue": "The 2nd Laser Display Conference (LDC’13), LDC-8-4",
+        "date": "2013-04",
+        "place": "Yokohama",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Tomonori Tashiro",
+            "Shoko Kawanobe",
+            "Takako Kimura-Minoda",
+            "Shunsuke Kohko",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "DISCOMFORT GLARE OF WHITE LED SOURCES OF DIFFERENT SPATIAL ARRANGEMENTS",
+        "venue": "CIE2013",
+        "date": "2013-04",
+        "place": "Paris",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Hiroyuki Kaji",
+            "Kentaro Oba",
+            "Kazushige Nagai",
+            "Ken-ichi Iwauchi",
+            "Seiichi Tanaka",
+            "Sakae Saito",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Relation between Recognition of Illumination and Depth Perception",
+        "venue": "Society for Information Display’s Display Week 2013 (SID2013)",
+        "date": "2013-05",
+        "place": "Vancouver",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Muneto Tatsumoto",
+            "Tetsuya Eda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "Koichi Hirata"
+        ],
+        "title": "Light of intrinsically photosensitive retinal ganglion cell (ipRGC) causing migraine headache exacerbation",
+        "venue": "2013 International Headache Congress (IHC2013)",
+        "date": "2013-06",
+        "place": "Boston",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Ryouta Tsuji",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Analysis of Cloth Texture Recognition by Comparison between Engineering and Clothing Observers - Influence of Fabric Drape Complexity and Window Size -",
+        "venue": "12th International AIC Congress (AIC2013)",
+        "date": "2013-07",
+        "place": "Newcastle Upon Tyne",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Ryouta Tsuji",
+            "Kou Sato",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Basic Study on Recognition Mechanism for Cloth Textures in Online Shopping - Involvement of Visual and Tactile Perception -",
+        "venue": "5th International Congress of the International Association of Societies of Design Research 2013 (IASDR 2013)",
+        "date": "2013-08",
+        "place": "Tokyo",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yuki Sakaue",
+            "Yoshitake Takahashi",
+            "Tomoharu Ishikawa",
+            "Sakurako Matsushima",
+            "Miyoshi Ayama"
+        ],
+        "title": "Blackness Judgement of Lacquer Ware by Expert and Naive Groups",
+        "venue": "The 1st ASIA Color Association Conference (ACA 2013)",
+        "date": "2013-11",
+        "place": "Thanyaburi",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Chisato Orihara",
+            "Yi-Chum Chen",
+            "Yuki Kuhara",
+            "Kazunori Asada",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Comparison of perceived saturation difference between color anomalous and normal observers",
+        "venue": "The 1st ASIA Color Association Conference (ACA 2013)",
+        "date": "2013-11",
+        "place": "Thanyaburi",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "森田寿哉",
+            "木原裕彦",
+            "長谷川光司",
+            "阿山みよし",
+            "湯山一郎"
+        ],
+        "title": "両眼視差による奥行き知覚における眼球運動の影響",
+        "venue": "映像情報メディア学会論文誌",
+        "date": "2012",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "佐藤昂",
+            "松本好史",
+            "佐々木和也",
+            "清水裕子",
+            "阿山みよし"
+        ],
+        "title": "布地画像と実物の質感認識に関する基礎的研究―工学系と被服系学生の比較―",
+        "venue": "感性工学, Vol.10, No.4, pp.497-504",
+        "date": "2012-01",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "浅野裕俊",
+            "石川智治",
+            "野澤昭雄",
+            "水野統太",
+            "三井実",
+            "井出英人",
+            "宮原誠"
+        ],
+        "title": "酸素化ヘモグロビン濃度変化量による深い感性の検出に関する検討",
+        "venue": "感性工学, Vol.11, No.2, pp.349-355",
+        "date": "2012-04",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Yunge Guan",
+            "Yi-Chun Chen",
+            "Hisashi Oguro",
+            "Masao Kasuga",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of tone curve and size on kansei evaluation of high dynamic range images – Comparison of Japanese and Chinese observers",
+        "venue": "Kansei Engineering International Journal, Vol.11 No.2, pp.67-79",
+        "date": "2012-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治"
+        ],
+        "title": "感覚療法への招待, 第3章 体性感覚および聴覚へのアプローチ―深い癒しを提供する「場」の実現に向けて―",
+        "venue": "福島明子編, 風間書房",
+        "date": "2012-05",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "分担執筆"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治"
+        ],
+        "title": "音質・色彩が癒し感に与える影響",
+        "venue": "(株)技術情報協会編, 新製品開発における高級感・上質感・本物感の付与技術, (株)技術情報協会",
+        "date": "2012-08",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "分担執筆"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Kentaro Oba",
+            "Kazushige Nagai",
+            "Hiroyuki Kaji",
+            "Ken-ichi Iwauchi",
+            "Keisuke Omori",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effective modification of luminance gradient for protrusion perception in 2D and 3D displays",
+        "venue": "International Conference on Kansei Engineering and Emotion Research (KEER 2012)",
+        "date": "2012-05",
+        "place": "Penghu",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yi-Chun Chen",
+            "Yunge Guan",
+            "Nobuo Honma",
+            "Tomoharu Ishikawa",
+            "Hiroaki Eto",
+            "Takehiro Nakatsue",
+            "Jinhui Chao",
+            "Miyoshi Ayama"
+        ],
+        "title": "Preference of images with color enhancement assessed by color anomalous and normal observers",
+        "venue": "The International Conference, The Color Science Association of Japan",
+        "date": "2012-05",
+        "place": "Kyoto",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Kazuya Sasaki",
+            "Hiroko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Investigation of visual and tactile key factors for texture recognition in cloth images and materials",
+        "venue": "International Conference on Kansei Engineering and Emotion Research (KEER 2012)",
+        "date": "2012-05",
+        "place": "Penghu",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tsuyoshi Komatsu",
+            "Michiko Ohkura",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Assessment of material perception of black lacquer",
+        "venue": "Proceedings of the 4th International Conference on Applied Human Factors and Ergonomics (AHFE2012)",
+        "date": "2012-05",
+        "place": "San Francisco",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Hiroshi Hasegawa",
+            "Tomoharu Ishikawa",
+            "Masao Kasuga",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effects of changes in the depth feeling of the visual target on the simultaneity perception of an auditory-visual event",
+        "venue": "Acoustics 2012",
+        "date": "2012-07",
+        "place": "Hong Kong",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Tomonori Tashiro",
+            "Shoko Kawanobe",
+            "Takako Kimura-Minoda",
+            "Shun-suke Kohko",
+            "Tomoharu Ishikawa"
+        ],
+        "title": "Discomfort Glare of White LED Sources",
+        "venue": "The 5th CJK Lighting Conference",
+        "date": "2012-08",
+        "place": "China",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tetsuya Kohno",
+            "Yuki Sakaue",
+            "Tomoharu Ishikawa",
+            "Sakurako Matsushima",
+            "Michiko Ohkura",
+            "Masao Kasuga",
+            "Yukitoshi Ohtani",
+            "Miyoshi Ayama"
+        ],
+        "title": "Blackness of Japanese lacquer and its relation to surface property",
+        "venue": "Proceedings of the 12th International Congress of the International Colour Association (AIC2012)",
+        "date": "2012-09",
+        "place": "Taipei",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Ryota Mizutani",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "Yukitoshi Otani"
+        ],
+        "title": "Imaging Stokes polarimeter by dual rotating retarder and analyzer and its application of evaluation of Japanese lacquer",
+        "venue": "Proc. SPIE 8563, Optical Metrology and Inspection for Industrial Applications II, 85630A",
+        "date": "2012-11",
+        "place": "China",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "第8章の2.1 心理物理学的手法",
+        "venue": "新編色彩科学ハンドブック　第3版, 東京大学出版会",
+        "date": "2011",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "分担執筆"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "7.20 照明",
+        "venue": "光の百科事典, 丸善",
+        "date": "2011",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "分担執筆"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "黒木速人",
+            "井野秀一",
+            "中野聡子",
+            "堀耕太郎",
+            "伊福部達",
+            "阿山みよし",
+            "長谷川光司",
+            "湯山一郎"
+        ],
+        "title": "聴覚障害者のためのリアルタイム字幕システムにおける話者顔画像と誤認識字幕の呈示タイミングに関する研究",
+        "venue": "映像情報メディア学会誌, Vol.65, No.12 pp.1750-1757",
+        "date": "2011",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "岩内謙一",
+            "高橋智哉",
+            "岡圭太",
+            "江田哲也",
+            "石川智治",
+            "阿山みよし"
+        ],
+        "title": "実物体とディジタル画像の立体感知覚に与える輝度分布の影響",
+        "venue": "感性工学, Vol.10, No.3, pp.399-408",
+        "date": "2011",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yi-Chun Chen",
+            "Yunge Guan",
+            "Nobuo Honma",
+            "Tomoharu Ishikawa",
+            "Hiroaki Eto",
+            "Takehiro Nakatsue",
+            "Jinhui Chao",
+            "Miyoshi Ayama"
+        ],
+        "title": "Preference of Color Images with Color-weak Correction Assessed by Color Anomalous and Normal Observers",
+        "venue": "The 18th International Display Workshops (IDW’11), Nagoya, pp.1863-1866",
+        "date": "2011-12",
+        "place": "Nagoya",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Saiko Aiba",
+            "Muneto Tatsumoto",
+            "Tetsuya Eda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama",
+            "Koichi Hirata"
+        ],
+        "title": "Light stimulation by the peak wavelength of intrinsically photosensitive retinal ganglion cells (ipRGCs) in migraine",
+        "venue": "53rd Annual Scientific Meeting, American Headache Society",
+        "date": "2011-06",
+        "place": "Washington DC, USA",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yuji Suzawa",
+            "Satoshi Naoi",
+            "Masaaki Hayakawa",
+            "Motohisa Sato",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Visibility for non-uniform background and its application to tunnel entrance lighting",
+        "venue": "International Symposium on Automotive Lighting 2011",
+        "date": "2011",
+        "place": "Darmstadt",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Yunge Guan",
+            "Yi-Chun Chen",
+            "Hisashi Oguro",
+            "Masao Kasuga",
+            "Miyoshi Ayama"
+        ],
+        "title": "Kansei Evaluation of HDR Color Images on Different Tone Curve and Size - Foundational Investigation of Difference between Japanese and Chinese -",
+        "venue": "HCI International 2011",
+        "date": "2011",
+        "place": "Orlando",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomonori Tashiro",
+            "Kakeru Takano",
+            "Takako Kimura-Minoda",
+            "Shun-suke Kohko",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Discomfort Glare Evaluation to White LEDS with Different Arrangement",
+        "venue": "27th Session of the CIE, Sun",
+        "date": "2011",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Ryota Murakami",
+            "Fan Hang",
+            "Tomonori Tashiro",
+            "Tomoharu Ishikawa",
+            "Kazuhiko Ohnuma",
+            "Hiroyuki Shinoda",
+            "Keisuke Araki"
+        ],
+        "title": "Estimation of Light Scatter in Ocular Media using Psychophysical Method and its Relation to Legibility",
+        "venue": "27th Session of the CIE, Sun",
+        "date": "2011",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Tetsuya Eda",
+            "Tomoharu Ishikawa",
+            "Sakurako Matsushima"
+        ],
+        "title": "Effect of Observers’ Property on Kansei Impression of Blackness in Artistic Digital Images",
+        "venue": "Midterm Meeting of the International Colour Association (AIC) 2011",
+        "date": "2011",
+        "place": "Zurich",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Kou Sato",
+            "Yoshifumi Matsumoto",
+            "Kazuya Sasaki",
+            "Yuko Shimizu",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of Knowledge and Experience of Fabric on the Cross-Modal Linkage between Tactile Sensation and Visual Image of Solid Black and Multi-Color Printed Fabrics",
+        "venue": "Midterm Meeting of the International Colour Association (AIC) 2011",
+        "date": "2011",
+        "place": "Zurich",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Takako Kimura-Minoda",
+            "Miyoshi Ayama"
+        ],
+        "title": "Evaluation of glare from color LEDs and its correlation with individual variations in brightness sensitivity",
+        "venue": "Color Research and Application, pp.286-294",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "木村能子",
+            "阿山みよし"
+        ],
+        "title": "LED に対する眩しさ感の年齢差に関する研究",
+        "venue": "照明学会誌, Vol.94, No.2, pp.120-123",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし",
+            "江田哲也",
+            "石川智治"
+        ],
+        "title": "知覚的黒みの研究",
+        "venue": "電子情報通信学会誌, pp.316-321, No.93",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "江田哲也",
+            "尾崎功一",
+            "阿山みよし"
+        ],
+        "title": "黒みと色相・彩度の関係－物体色モードと光源色モードにおける黒み評価－",
+        "venue": "日本色彩学会誌, Vol.34, No.1, pp.2-12",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし",
+            "白川俊之",
+            "清水智弘",
+            "小黒久史",
+            "郭素梅",
+            "佐藤美恵",
+            "江田哲也",
+            "石川智治",
+            "春日正男"
+        ],
+        "title": "色彩画像の感性的評価 －画面サイズ，明度および彩度コントラストの影響－",
+        "venue": "感性工学, Vol.9, No.2, pp.177-187",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "浅野裕俊",
+            "石川智治",
+            "野澤昭雄",
+            "棚橋大介",
+            "首藤誠志",
+            "井出英人",
+            "宮原誠"
+        ],
+        "title": "酸素化ヘモグロビン濃度変化による音楽再生の評価の検討―深い感性の客観評価指標の追求―",
+        "venue": "感性工学, Vol.9, No.2, pp.323-328",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "江田哲也",
+            "石川智治",
+            "松島さくら子",
+            "阿山みよし"
+        ],
+        "title": "黒みの感性的評価―工学系と美術系の被験者群による比較―",
+        "venue": "日本感性工学会論文誌, Vol.9, No.2, pp.296-275",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "陳怡君",
+            "白川俊之",
+            "江田哲也",
+            "小黒久史",
+            "郭素梅",
+            "佐藤美恵",
+            "春日正男",
+            "阿山みよし"
+        ],
+        "title": "撮影画像の明度コントラストが感性的評価に及ぼす影響",
+        "venue": "感性工学, Vol.9, No.4, pp.663-674",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿部真之",
+            "芦口友章",
+            "矢口貴也",
+            "石田真之助",
+            "坂本洋介",
+            "外山史",
+            "宮道壽一",
+            "石川智治",
+            "阿山みよし",
+            "東海林健二"
+        ],
+        "title": "道路画像からの所定の幅の領域抽出による白線検出",
+        "venue": "電気学会論文誌Ｃ, Vol.130, No.11, pp.2088-2089",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治"
+        ],
+        "title": "映像情報メディア工学大辞典, 技術編, 第10部門フューチャービジョン，7-2 深い感性に関連する評価語―客観評価への挑戦とその応用―",
+        "venue": "（社）映像情報メディア学会編, オーム社, p.771",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": "分担執筆"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Tetsuya Eda",
+            "Yoshiki Koike",
+            "Sakurako Matsushima",
+            "Tomoharu Ishikawa",
+            "Koichi Ozaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Influence of Blackness on Visual Impression of Color Images",
+        "venue": "Kansei Engineering International Journal, Vol.10, No.1, pp.49-58",
+        "date": "2010",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Hiroshi Hasegawa",
+            "Shun Yayamoto",
+            "Tomoharu Ishikawa",
+            "Ichiro Yuyama",
+            "Masao Kasuga",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effect of the time delay between a visual stimulus and its associated sound on their equivalent perception",
+        "venue": "17th International Congress on Sound and Vibration (ICSV17)",
+        "date": "2010",
+        "place": "CAIRO",
+        "url": "",
+        "doi": "",
+        "note": "CDR, 8頁"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomonori Tashiro",
+            "Takako Kimura-Minoda",
+            "Shunsuke Kohko",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Evaluation of Discomfort Glare Caused by Different Light Distributions of White LEDS",
+        "venue": "CIE 2010 “Lighting Quality & Energy Efficiency” Conference",
+        "date": "2010",
+        "place": "Vienna",
+        "url": "",
+        "doi": "",
+        "note": "CDR, 6頁"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Toshifumi Suzuki",
+            "Tomoya Suzuki",
+            "Takashi Kawai",
+            "Osamu Koyama",
+            "Tetsuya Eda",
+            "Miyoshi Ayama"
+        ],
+        "title": "Border Detection Between Two Stimuli in Various Surround Luminance Conditions",
+        "venue": "The 17th International Display Workshops (IDW’10)",
+        "date": "2010",
+        "place": "Fukuoka",
+        "url": "",
+        "doi": "",
+        "note": "CDR, 4頁"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yi-Chun Chen",
+            "Ikuko Takahashi",
+            "Yunge Guan",
+            "Tomoharu Ishikawa",
+            "Hiroaki Eto",
+            "Takehiro Nakatsue",
+            "Jinhui Chao",
+            "Miyoshi Ayama"
+        ],
+        "title": "Kansei Evaluation of Color Images Corrected for Color Anomalies assessed by Deuteranomalous and Normal Observers",
+        "venue": "The 17th International Display Workshops (IDW’10)",
+        "date": "2010",
+        "place": "Fukuoka",
+        "url": "",
+        "doi": "",
+        "note": "CDR, 4頁"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Ken-ichi Iwauchi",
+            "Tomoya Takahashi",
+            "Tetsuya Eda",
+            "Tomoharu Ishikawa",
+            "Miyoshi Ayama"
+        ],
+        "title": "Influence of luminance gradient on three dimensional perception for real object and digital image",
+        "venue": "The 17th International Display Workshops (IDW’10)",
+        "date": "2010",
+        "place": "Fukuoka",
+        "url": "",
+        "doi": "",
+        "note": "CDR, 4頁"
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Yi-Chun Chen",
+            "Tomoharu Ishikawa",
+            "Toshiyuki Shirakawa",
+            "Tetsuya Eda",
+            "Hisashi Oguro",
+            "Sumei Guo",
+            "Mie Sato",
+            "Masao Kasuga",
+            "Miyoshi Ayama"
+        ],
+        "title": "Effects of Lightness Contrast and Image Size on Kansei Evaluation of Photographic Pictures",
+        "venue": "Kansei Engineering and Emotion Research (KEER) 2010",
+        "date": "2010",
+        "place": "Paris",
+        "url": "",
+        "doi": "",
+        "note": "CDR, 6頁"
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし",
+            "斎田真也"
+        ],
+        "title": "生体計測の感性評価への応用",
+        "venue": "電子情報通信学会誌, Vol.92, No.11, pp.929-931",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "郭素梅",
+            "小黒久史",
+            "佐藤美恵",
+            "阿山みよし",
+            "春日正男"
+        ],
+        "title": "映像コンテンツの感性評価における単極評価法の有効性に関する検討",
+        "venue": "感性工学, Vol.8, No.4, pp.1091-1098",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "伊東勇人",
+            "佐藤元久",
+            "大島敦宏",
+            "山田慎哉",
+            "阿山みよし"
+        ],
+        "title": "トンネル入口照明における限界輝度対比の検討",
+        "venue": "照明学会誌, Vol.93, No.2, pp.97-101",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "鹿島田千帆",
+            "荻田和紀",
+            "石川智治",
+            "長谷川光司",
+            "阿山みよし"
+        ],
+        "title": "音声の聴取印象に対する発話トレーニングの効果",
+        "venue": "映像情報メディア学会論文誌, Vol.63, No.12, pp.1818-1823",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "浅野裕俊",
+            "石川智治",
+            "野澤昭雄",
+            "棚橋大介",
+            "首藤誠志",
+            "井出英人",
+            "宮原誠"
+        ],
+        "title": "酸素化ヘモグロビン濃度変化による音楽再生の評価の検討―深い感性の客観評価指標の追求―",
+        "venue": "感性工学, Vol.9, No.2, pp.323-328",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "三井実",
+            "石川智治",
+            "野尻一実",
+            "宮原誠"
+        ],
+        "title": "深い感性に関連する電磁石スピーカの特性の考察",
+        "venue": "感性工学, Vol.8, No.4, pp.1155-1160",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "三井実",
+            "熊谷隆富",
+            "日比野靖",
+            "宮原誠"
+        ],
+        "title": "“輝き感”を発生させる物理要因の発見と検討－孤立点群によって生じる“輝き感”－",
+        "venue": "感性工学, Vol.8, No.4, pp.1021-1024",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石田篤史",
+            "龍田成示",
+            "杉原良平",
+            "大村哲弥",
+            "石川智治",
+            "加藤俊一"
+        ],
+        "title": "行動による音楽検索システムの試作と評価",
+        "venue": "感性工学, Vol.8, No.3, pp.829-836",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tetsuya Eda",
+            "Yoshiki Koike",
+            "Sakurako Matsushima",
+            "Koichi Ozaki",
+            "Miyoshi Ayama"
+        ],
+        "title": "Influence of surround luminance upon perceived blackness",
+        "venue": "IS&T SPIE",
+        "date": "2009",
+        "place": "San Jose",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Takako Kimura-Minoda",
+            "Tatsuya Yamashita",
+            "Miyoshi Ayama"
+        ],
+        "title": "Glare evaluation of color LED for young and elderly",
+        "venue": "11th Congress of the International Colour Association (AIC2009)",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Toshiyuki Shirakawa",
+            "Hisashi Oguro",
+            "Sumiei Guo",
+            "Tetsuya Eda",
+            "Mie Sato",
+            "Masao Kasuga",
+            "Miyoshi Ayama"
+        ],
+        "title": "Color Modulations Appropriate for Different Image Sizes Base on Impression Assessment",
+        "venue": "11th Congress of the International Colour Association (AIC) 2009",
+        "date": "2009",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "鹿島田千帆",
+            "長谷川光司",
+            "鎌田一雄",
+            "阿山みよし"
+        ],
+        "title": "視聴覚情報間の遅延および文章の構成順序が内容の認識に与える影響",
+        "venue": "映像情報メディア学会誌, Vol.62, No.12, pp.2005-2012",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "第2章 視覚系と色評価",
+        "venue": "電機大出版局，カラーマネージメント技術, pp.30-40",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "第1章 第1節 照明光下での色の見えの評価",
+        "venue": "評論社，最先端照明・光源技術, pp.3-7",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "江田哲也",
+            "阿山みよし"
+        ],
+        "title": "知覚的白色感の定量化",
+        "venue": "照明学会誌, Vol.92, No.8A, pp.445-454",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "小黒久史",
+            "郭素梅",
+            "鈴木直哉",
+            "佐藤美恵",
+            "阿山みよし",
+            "春日正男"
+        ],
+        "title": "カメラワークの感性的効果の表示デバイス依存性に関する検討",
+        "venue": "感性工学, Vol.7, No.2, pp.821-830",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "小黒久史",
+            "郭素梅",
+            "鈴木直哉",
+            "佐藤美恵",
+            "阿山みよし",
+            "春日正男"
+        ],
+        "title": "表示機器に適応したリアルタイム映像生成のためのカメラワーク調整手法とその感性的評価",
+        "venue": "感性工学, Vol.7, No.2, pp.831-840",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "野澤昭雄",
+            "三井実",
+            "水野統太",
+            "今井啓介",
+            "井出英人",
+            "宮原誠"
+        ],
+        "title": "音楽再生における心理生理計測による“深い感性”の客観評価指標の検討",
+        "venue": "感性工学, Vol.8, No.1, pp.169-174",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "三井実",
+            "石川智治",
+            "党建武",
+            "宮原誠"
+        ],
+        "title": "ディジタルオーディオにおける深い感性に関連した音質劣化の原因究明 -jitter に起因する音質劣化の仕組みの解明と新改善方法の検討-",
+        "venue": "感性工学, Vol.7, No.4, pp.759-764",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "野澤昭雄",
+            "水野統太",
+            "三井実",
+            "今井啓介",
+            "井出英人",
+            "宮原誠"
+        ],
+        "title": "深い感性の客観評価指標の検討 -音再生における評価語と生理特性との関係-",
+        "venue": "感性工学, Vol.7, No.4, pp.727-732",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Mie Sato",
+            "Hiroshi Hasegawa",
+            "Masao Kasuga"
+        ],
+        "title": "Functional visual field in different road scenes",
+        "venue": "Proceedings of the 26th Session of the CIE",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Takako Kimura-Minoda",
+            "Shinichi Kojima",
+            "Yudai Fujita",
+            "Miyoshi Ayama"
+        ],
+        "title": "Study on glare of LED lamp and individual variations of brightness perception",
+        "venue": "Proceedings of the 7th International Symposium on Automotive Lighting",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Hayato Ito",
+            "Motohisa Sato",
+            "Atsushi Oshima",
+            "Shinnya Yamada",
+            "Miyoshi Ayama"
+        ],
+        "title": "Measurement of luminance contrast threshold for positive and negative contrast stimuli to investigate visibility under the tunnel entrance lighting",
+        "venue": "Proceedings of the 26th Session of the CIE",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Shusaku Nomura",
+            "Minoru Mitsui",
+            "Makoto Miyahara"
+        ],
+        "title": "Investigation of the Relationship between Psychological and Physiological Stress Responses for Considering the Possibility of Objective Assessment Scale of Deep KANSEI",
+        "venue": "Joint 4th International Conference on Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems (SCIS&ISIS) 2008",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Takako Kimura-Minoda"
+        ],
+        "title": "Individual variations of glare and brightness perception for color LED",
+        "venue": "Abstracts of Japan Taiwan Bilateral Science & Technology Symposium",
+        "date": "2008",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "Miyoshi Ayama",
+            "Hiroyasu Ujike",
+            "Wataru Iwai",
+            "Masami Funakawa",
+            "Katsunori Okajima"
+        ],
+        "title": "Effects of Contrast and Character Size upon Legibility of Japanese Text Stimuli Presented on VDT",
+        "venue": "OPTICAL REVIEW, Vol.14, No.1, pp.48-56",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし",
+            "藤田雄大",
+            "鈴木潤",
+            "川口嘉史",
+            "小嶋伸一",
+            "佐藤孝"
+        ],
+        "title": "ナイトビジョンシステムの視認性評価とそのヘッドアップディスプレイ表示の検討",
+        "venue": "照明学会誌, vol.91, No.5, pp.251-257",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "野澤昭雄",
+            "三井実",
+            "水野統太",
+            "井出英人",
+            "宮原誠"
+        ],
+        "title": "心理・生理計測による音再生システムの客観評価指標の検討",
+        "venue": "映像情報メディア学会誌, Vol.61, No.6, pp.825-827",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "自動車運転と視野",
+        "venue": "",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "白色光レーザー・RBGレーザーの開発，第1章第1節 色彩と知覚",
+        "venue": "サイエンス＆テクノロジー社",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tetsuya Eda",
+            "Yoshiki Koike",
+            "Sakurako Matsusshima",
+            "Miyoshi Ayama"
+        ],
+        "title": "Role of blackness on visual impression of color images",
+        "venue": "Kansei Engineering and Emotion Research (KEER) 2007",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Minoru Mitsui",
+            "Tomoharu Ishikawa",
+            "Makoto Miyahara"
+        ],
+        "title": "Faithful Reproduction of Deep Sensation in Digital Audio System focused on Socialization in SECI Model - Discovery of Important Physical Factors concerned with Sound Deteriorations in Digital Audio System with CD Players",
+        "venue": "International Joint Conference on Knowledge Science (IJCKS) 2007",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Akio Nozawa",
+            "Minoru Mitsui",
+            "Touta Mizuno",
+            "Keisuke Imai",
+            "Hideto Ide",
+            "Makoto Miyahara"
+        ],
+        "title": "Investigation and Assessment of Psychological and Physiological Characteristics for Sound Reproduction - Research of Objective Assessment Scale for Deep Kansei",
+        "venue": "Kansei Engineering and Emotion Research (KEER) 2007",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Minoru Mitsui",
+            "Tomoharu Ishikawa",
+            "Kouta Yoneyama",
+            "Jianwu Dang",
+            "Makoto Miyahara"
+        ],
+        "title": "Discussion of Ideal Power Supply for Digital Audio System and its Psychophysical Assessment",
+        "venue": "Audio Engineering Society (AES) Tokyo Convention 2007",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tomoharu Ishikawa",
+            "Minoru Mitsui",
+            "Kazumi Nojiri",
+            "Makoto Miyahara"
+        ],
+        "title": "Physical Characteristics and Assessment Test to prove Superiority of Field Coil Magnet over Ferrite Magnet in Loud Speakers",
+        "venue": "The Japan-China Joint Conference on Acoustics (JCA) 2007",
+        "date": "2007",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "江田哲也",
+            "阿山みよし"
+        ],
+        "title": "自分が存在する場合と外から観察する場合における空間の明るさ判断の比較",
+        "venue": "照明学会誌，第90巻第2号，pp.271－280",
+        "date": "2006",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし"
+        ],
+        "title": "拡張色空間とカラーマネジメント技術I 1.2視覚系と色評価",
+        "venue": "画像電子学会誌, Vol.35, No.4, pp.362-367",
+        "date": "2006",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "石川智治",
+            "宮原誠"
+        ],
+        "title": "バーチャルリアリティに重要な体感に基づく心理生理的評価の一提案",
+        "venue": "映像情報メディア学会誌, Vol.60, No.3, pp.446-448",
+        "date": "2006",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Keisuke Fujisawa",
+            "Masato Sakurai"
+        ],
+        "title": "Effect of field size on color appearance of small stimuli presented in middle periphery",
+        "venue": "Vision, Vol.18, Supplement for the Asian Conference on Vision",
+        "date": "2006",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Hayato Ito",
+            "Atsushi Oshima",
+            "Shinnya Yamada",
+            "Motohisa Sato",
+            "Miyoshi Ayama"
+        ],
+        "title": "Measurement of luminance discrimination for positive and negative contrast stimuli",
+        "venue": "Proceedings of the CIE Expert Symposium on Visual Appearance",
+        "date": "2006",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Miyoshi Ayama",
+            "Takanobu Fujima",
+            "Hitomi Fujii",
+            "Genji Yamamoto",
+            "Norihiro Ikeda",
+            "Masanori Nagata"
+        ],
+        "title": "Conspicuity of blinking LED lights of various temporal frequencies and duty ratios in a wide visual field",
+        "venue": "Proceedings of the CIE Expert Symposium, 75 Years of the CIE Standard Observer",
+        "date": "2006",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "太田亜紀子",
+            "金谷末子",
+            "阿山みよし",
+            "向健二"
+        ],
+        "title": "異なる照明光下における白色知覚に関する検討",
+        "venue": "照明学会誌，第89巻第11号，pp.773-781",
+        "date": "2005",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "阿山みよし",
+            "加藤崇史",
+            "漆畑直紀",
+            "山口亨",
+            "大橋邦博"
+        ],
+        "title": "交差点におけるドライバーへの音声警告提示時間の基礎的検討",
+        "venue": "照明学会誌，第89巻第5号，pp.225-229",
+        "date": "2005",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "国際学会発表",
+        "authors": [
+            "Tetsuya Eda",
+            "Miyoshi Ayama"
+        ],
+        "title": "Brightness judgment of observer’s space and observing space",
+        "venue": "Proceedings of the CIE Midterm Meeting",
+        "date": "2005",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
+    },
+    {
+        "category": "掲載(学協会誌・書籍)",
+        "authors": [
+            "江田哲也",
+            "阿山みよし",
+            "金谷末子",
+            "向健二"
+        ],
+        "title": "電球色及び昼光色蛍光灯照明下における知覚的白色領域",
+        "venue": "照明学会誌，第89巻第2号，pp.91-99",
+        "date": "2005",
+        "place": "",
+        "url": "",
+        "doi": "",
+        "note": ""
     }
 ]

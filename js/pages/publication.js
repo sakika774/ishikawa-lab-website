@@ -10,16 +10,28 @@ async function fetchJson(url) {
     }
 }
 
+// 日付表示用関数（YYYY-MM-DD または YYYY-MM → YYYY.MM.DD / YYYY.MM）
+function formatDateForDisplay(dateStr) {
+    if (!dateStr) return '';
+    const parts = dateStr.split('-'); // YYYY, MM, DD に分解
+    if (parts.length === 3) {
+        return `${parts[0]}.${parts[1]}.${parts[2]}`;
+    } else if (parts.length === 2) {
+        return `${parts[0]}.${parts[1]}`;
+    } else {
+        return dateStr;
+    }
+}
+
 function renderPublicationsByYear(publicationList, year, containerId) {
     const container = document.getElementById(containerId);
     if (!container) return;
 
-    container.innerHTML = ''; // 前の表示をクリア
+    container.innerHTML = '';
 
-    // 指定年の業績のみ抽出し、日付降順ソート
     const filtered = publicationList
-        .filter(item => item.sort_date.startsWith(String(year)))
-        .sort((a, b) => new Date(b.sort_date) - new Date(a.sort_date));
+        .filter(item => item.date.startsWith(String(year)))
+        .sort((a, b) => new Date(b.date) - new Date(a.date));
 
     if (filtered.length === 0) {
         container.innerHTML = `<p>${year}年の研究業績はありません。</p>`;
@@ -28,8 +40,19 @@ function renderPublicationsByYear(publicationList, year, containerId) {
 
     filtered.forEach(item => {
         const authorsText = item.authors.join(', ');
-        const contentParts = [authorsText, item.title, item.venue, item.note, item.citation]
-            .filter(part => part);
+        const formattedDate = formatDateForDisplay(item.date);
+
+        const contentParts = [
+            authorsText,
+            item.title || '',
+            item.venue || '',
+            item.place || '',
+            formattedDate || '',
+            item.doi ? `doi: <a href="${item.url}" target="_blank">${item.doi}</a>`
+                : (item.url ? `<a href="${item.url}" target="_blank">Link</a>` : ''),
+            item.note || ''
+        ].filter(part => part);
+
         const contentText = contentParts.join(', ');
 
         const cardHTML = `
@@ -57,7 +80,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     // 年リストを作成
-    const yearsSet = new Set(publications.map(item => item.sort_date.slice(0, 4)));
+    const yearsSet = new Set(publications.map(item => item.date.slice(0, 4)));
     const years = Array.from(yearsSet).sort((a, b) => b - a);
 
     // 年ボタンを生成

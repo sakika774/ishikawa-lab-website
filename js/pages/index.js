@@ -74,12 +74,12 @@ function renderPublications(publicationList) {
     const latestPublications = publicationList.slice(0, 4);
 
     latestPublications.forEach(item => {
-        const year = item.sort_date.substring(0, 4); //発表年のみを取り出す
-        const authorsText = item.authors.join(', '); //関係者をまとめる
+        const year = item.date.substring(0, 4); // 発表年のみを取り出す
+        const authorsText = item.authors.join(', '); // 著者名をまとめる
 
-        //表示する情報をまとめる(空要素は除外)
-        const contentParts = [authorsText, item.title, item.venue, item.note, item.citation];
-        const validParts = contentParts.filter(part => part);
+        // 表示する情報をまとめる（空要素は除外）
+        const contentParts = [authorsText, item.title, item.venue, item.note];
+        const validParts = contentParts.filter(part => part && part.trim() !== '');
         const contentText = validParts.join(', ');
 
         const cardHTML = `
