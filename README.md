@@ -5,7 +5,7 @@
 ## 使用技術
 - HTML / CSS / JavaScript（フロントエンドのみの静的サイト）
 - JSONによるデータ管理（ニュース・研究・業績・メンバー情報をJSONでまとめ、各ページで読み込む）
-- デザインは Figma で作成済み([Figma](https://www.figma.com/design/6ZfSHxZCg8mhkg74R0XxKN/ishikawa-lab-website?node-id=576-923&t=mzFruA42YhejmUOL-1))から確認可能）
+- デザインは Figma で作成済み([Figma](https://www.figma.com/design/6ZfSHxZCg8mhkg74R0XxKN/ishikawa-lab-website?node-id=576-923&t=mzFruA42YhejmUOL-1))
 
 ## データ管理・運用方針
 - 各ページは対応するJSONファイルを読み込んで内容を表示
