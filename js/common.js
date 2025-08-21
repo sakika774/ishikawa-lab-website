@@ -58,19 +58,11 @@ function updateAllLinks() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    const depth = location.pathname.split("/").filter(Boolean).length - 1;
-    const basePath = depth > 0 ? "../".repeat(depth) : "./";
+    const basePath = '/human-information-science-lab/';
 
-    loadComponent(`${basePath}_header.html`, 'header-placeholder').then(() => {
-        setupMenuButton();
-        updateAllLinks();
-    });
+    loadComponent(`${basePath}_header.html`, 'header-placeholder');
+    loadComponent(`${basePath}_footer.html`, 'footer-placeholder');
 
-    loadComponent(`${basePath}_footer.html`, 'footer-placeholder').then(() => {
-        updateAllLinks();
-    });
-
-    // fade-up 要素の監視
     const fadeUpElements = document.querySelectorAll('.fade-up');
     const observer = new IntersectionObserver((entries, obs) => {
         entries.forEach(entry => {
