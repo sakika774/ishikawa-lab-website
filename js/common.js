@@ -48,15 +48,6 @@ function setupMenuButton() {
     }
 }
 
-function updateAllLinks() {
-    const depth = location.pathname.split("/").filter(Boolean).length - 1;
-    const basePath = depth > 0 ? "../".repeat(depth) : "./";
-
-    document.querySelectorAll('[data-path]').forEach(a => {
-        a.href = basePath + a.dataset.path;
-    });
-}
-
 document.addEventListener("DOMContentLoaded", function () {
     const basePath = '/human-information-science-lab/';
 

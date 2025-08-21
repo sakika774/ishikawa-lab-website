@@ -21,8 +21,6 @@ document.addEventListener('DOMContentLoaded', async function () {
     }
 });
 
-
-
 // --- Newsセクションのデータを表示 ---
 function renderNews(newsList) {
     const container = document.getElementById('news-container-home');
@@ -83,7 +81,7 @@ function renderPublications(publicationList) {
         const contentText = validParts.join(', ');
 
         const cardHTML = `
-            <a href="publication.html" class="publication-card">
+            <a href="/human-information-science-lab/publication.html" class="publication-card">
                 <div class="publication-card-meta">
                     <span class="publication-card-year">${year}</span>
                     <span class="publication-card-category">${item.category}</span>
