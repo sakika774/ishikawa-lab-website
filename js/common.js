@@ -51,7 +51,10 @@ function setupMenuButton() {
 document.addEventListener("DOMContentLoaded", function () {
     const basePath = '/human-information-science-lab/';
 
-    loadComponent(`${basePath}_header.html`, 'header-placeholder');
+    loadComponent(`${basePath}_header.html`, 'header-placeholder').then(() => {
+        setupMenuButton(); 
+    });
+
     loadComponent(`${basePath}_footer.html`, 'footer-placeholder');
 
     const fadeUpElements = document.querySelectorAll('.fade-up');
