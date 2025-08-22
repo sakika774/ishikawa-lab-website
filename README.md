@@ -1,7 +1,7 @@
 # ishikawa-lab-website
 石川・何研究室の公式サイトです。  
 2025年に大規模リニューアルリリースを行いました。
-[![新サイトサムネイル](screenshots/ogp.png)](http://www.is.utsunomiya-u.ac.jp/human-information-science-lab/index.html)
+[![新サイトサムネイル](screenshots/ogp-main.png)](http://www.is.utsunomiya-u.ac.jp/human-information-science-lab/index.html)
 [新サイトはこちら](http://www.is.utsunomiya-u.ac.jp/human-information-science-lab/index.html)
 
 ## 制作背景
@@ -10,41 +10,41 @@
 
 ## 旧サイトと新サイトの比較
 <!-- 旧サイト -->
-<div style="display: flex; gap: 20px; padding-bottom:20px;">
-    <img src="screenshots/old-site.png" alt="旧サイト" style="width: 250px;"/>
-    <div>
-        <h3>旧サイトの問題点</h3>
+<div style="display: flex; gap: 20px; padding-bottom:20px; align-items:flex-start;">
+  <img src="screenshots/old-site.png" alt="旧サイト" style="width: 250px; flex-shrink: 0;">
+  <div style="flex: 1;">
+    <h3>旧サイトの問題点</h3>
+    <ul>
+      <li>デザインの一貫性がない</li>
+      <li>更新者の負荷が大きい
         <ul>
-          <li>デザインの一貫性がない</li>
-          <li>更新者の負荷が大きい
-            <ul>
-              <li>フォルダ構成が複雑</li>
-              <li>情報が分散</li>
-              <li>文字化けが多発</li>
-            </ul>
-          </li>
-          <li>レスポンシブ未対応</li>
+          <li>フォルダ構成が複雑</li>
+          <li>情報が分散</li>
+          <li>文字化けが多発</li>
         </ul>
-    </div>
+      </li>
+      <li>レスポンシブ未対応</li>
+    </ul>
+  </div>
 </div>
 
-  <!-- 新サイト -->
+<!-- 新サイト -->
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="screenshots/new-site.png" alt="新サイト" style="width: 250px; height: auto;" />
-  <div>
-      <h3>新サイトのポイント</h3>
-      <ul>
-        <li>デザインの改善</li>
-        <li>更新者負担を減らす構成で再設計
-          <ul>
-            <li>データ(JSON)と見た目(HTML等)の分離</li>
-            <li>適切なファイル分割</li>
-            <li>更新方法の明確化</li>
-            <li>編集者向けドキュメントの整備</li>
-          </ul>
-        </li>
-        <li>レスポンシブ対応(スマホ・タブレット・PC)</li>
-      </ul>
+  <img src="screenshots/new-site.png" alt="新サイト" style="width: 250px; flex-shrink:0;">
+  <div style="flex: 1;">
+    <h3>新サイトのポイント</h3>
+    <ul>
+      <li>デザインの改善</li>
+      <li>更新者負担を減らす構成で再設計
+        <ul>
+          <li>データ(JSON)と見た目(HTML等)の分離</li>
+          <li>適切なファイル分割</li>
+          <li>更新方法の明確化</li>
+          <li>編集者向けドキュメントの整備</li>
+        </ul>
+      </li>
+      <li>レスポンシブ対応(スマホ・タブレット・PC)</li>
+    </ul>
   </div>
 </div>
 
@@ -87,12 +87,14 @@
 ```
 
 ## OGP
-<img src="screenshots/ogp-main.png" alt="OGP-メイン画面" width="230">
-<img src="screenshots/ogp-news.png" alt="OGP-ニュースページ" width="230">
-<img src="screenshots/ogp-research.png" alt="OGP-研究内容のページ" width="230">
-<img src="screenshots/ogp-publication.png" alt="OGP-研究業績のページ" width="230">
-<img src="screenshots/ogp-member.png" alt="OGP-メンバーページ" width="230">
-<img src="screenshots/ogp-content.png" alt="OGP-その他のコンテンツ" width="230">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/ogp-main.png" alt="OGP-メイン画面" width="230">
+  <img src="screenshots/ogp-news.png" alt="OGP-ニュースページ" width="230">
+  <img src="screenshots/ogp-research.png" alt="OGP-研究内容のページ" width="230">
+  <img src="screenshots/ogp-publication.png" alt="OGP-研究業績のページ" width="230">
+  <img src="screenshots/ogp-member.png" alt="OGP-メンバーページ" width="230">
+  <img src="screenshots/ogp-content.png" alt="OGP-その他のコンテンツ" width="230">
+</div>
 
 ## ファビコン/アイコン
 <img src="screenshots/favicon.png" alt="ファビコン" width="100">
