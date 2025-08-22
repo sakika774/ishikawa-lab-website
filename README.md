@@ -12,20 +12,10 @@
 そこで、より見やすく、更新しやすいサイトを目指してリニューアルしました。
 
 ## 旧サイトと新サイトの比較
+| 旧サイト | 新サイト |
+| -------- | ---------- |
+| <img src="screenshots/old-site.png" width="300" style="vertical-align: top;"> | <img src="screenshots/new-site.png" width="250" style="vertical-align: top;"> |
 
-<!-- 画像横並び -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-  <div>
-    <h3>旧サイト</h3>
-    <img src="screenshots/old-site.png" alt="旧サイト" style="width: 250px; height: auto;">
-  </div>
-  <div>
-    <h3>新サイト</h3>
-    <img src="screenshots/new-site.png" alt="新サイト" style="width: 250px; height: auto;">
-  </div>
-</div>
-
-<!-- 説明文 -->
 <div>
   <h3>旧サイトの問題点</h3>
   <ul>
