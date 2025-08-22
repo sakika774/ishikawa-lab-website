@@ -1,11 +1,14 @@
 # ishikawa-lab-website
 石川・何研究室の公式サイトです。  
 2025年に大規模リニューアルリリースを行いました。
-[![新サイトサムネイル](screenshots/ogp-main.png)](http://www.is.utsunomiya-u.ac.jp/human-information-science-lab/index.html)
+<img src="screenshots/ogp-main.png" alt="新サイトサムネイル" width="500">
+
+# サイトのURL
+こちらからご確認いただけます →
 [新サイトはこちら](http://www.is.utsunomiya-u.ac.jp/human-information-science-lab/index.html)
 
 ## 制作背景
-旧サイトではデザインの統一性や更新のしやすさに課題がありました。
+旧サイトでは、デザインの統一性や更新のしやすさに課題がありました。
 そこで、より見やすく、更新しやすいサイトを目指してリニューアルしました。
 
 ## 旧サイトと新サイトの比較
