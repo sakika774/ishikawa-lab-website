@@ -9,43 +9,47 @@
 そこで、より見やすく、更新しやすいサイトを目指してリニューアルしました。
 
 ## 旧サイトと新サイトの比較
-<!-- 旧サイト -->
-<div style="display: flex; gap: 20px; padding-bottom:20px; align-items:flex-start;">
-  <img src="screenshots/old-site.png" alt="旧サイト" style="width: 250px; flex-shrink: 0;">
-  <div style="flex: 1;">
-    <h3>旧サイトの問題点</h3>
-    <ul>
-      <li>デザインの一貫性がない</li>
-      <li>更新者の負荷が大きい
-        <ul>
-          <li>フォルダ構成が複雑</li>
-          <li>情報が分散</li>
-          <li>文字化けが多発</li>
-        </ul>
-      </li>
-      <li>レスポンシブ未対応</li>
-    </ul>
+
+<!-- 画像横並び -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+  <div>
+    <h3>旧サイト</h3>
+    <img src="screenshots/old-site.png" alt="旧サイト" style="width: 250px; height: auto;">
+  </div>
+  <div>
+    <h3>新サイト</h3>
+    <img src="screenshots/new-site.png" alt="新サイト" style="width: 250px; height: auto;">
   </div>
 </div>
 
-<!-- 新サイト -->
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="screenshots/new-site.png" alt="新サイト" style="width: 250px; flex-shrink:0;">
-  <div style="flex: 1;">
-    <h3>新サイトのポイント</h3>
-    <ul>
-      <li>デザインの改善</li>
-      <li>更新者負担を減らす構成で再設計
-        <ul>
-          <li>データ(JSON)と見た目(HTML等)の分離</li>
-          <li>適切なファイル分割</li>
-          <li>更新方法の明確化</li>
-          <li>編集者向けドキュメントの整備</li>
-        </ul>
-      </li>
-      <li>レスポンシブ対応(スマホ・タブレット・PC)</li>
-    </ul>
-  </div>
+<!-- 説明文 -->
+<div>
+  <h3>旧サイトの問題点</h3>
+  <ul>
+    <li>デザインの一貫性がない</li>
+    <li>更新者の負荷が大きい
+      <ul>
+        <li>フォルダ構成が複雑</li>
+        <li>情報が分散</li>
+        <li>文字化けが多発</li>
+      </ul>
+    </li>
+    <li>レスポンシブ未対応</li>
+  </ul>
+
+  <h3>新サイトのポイント</h3>
+  <ul>
+    <li>デザインの改善</li>
+    <li>更新者負担を減らす構成で再設計
+      <ul>
+        <li>データ(JSON)と見た目(HTML等)の分離</li>
+        <li>適切なファイル分割</li>
+        <li>更新方法の明確化</li>
+        <li>編集者向けドキュメントの整備</li>
+      </ul>
+    </li>
+    <li>レスポンシブ対応(スマホ・タブレット・PC)</li>
+  </ul>
 </div>
 
 ## 使用技術
